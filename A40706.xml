@@ -1,0 +1,1038 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue betwixt Philautus and Timotheus in defence of Dr. Fullwood's Legas Angliæ against the vindicator of Naked truth, stiling himself Phil. Hickeringill.</title>
+            <author>Fullwood, Francis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 95 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40706</idno>
+            <idno type="STC">Wing F2499</idno>
+            <idno type="STC">ESTC R7930</idno>
+            <idno type="EEBO-CITATION">12922133</idno>
+            <idno type="OCLC">ocm 12922133</idno>
+            <idno type="VID">95404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 982:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue betwixt Philautus and Timotheus in defence of Dr. Fullwood's Legas Angliæ against the vindicator of Naked truth, stiling himself Phil. Hickeringill.</title>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>[2], 32, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rich. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fullwood, Francis, d. 1693. --  Leges Angliæ.</term>
+               <term>Hickeringill, Edmund, 1631-1708. --  Naked truth.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95404:1"/>
+            <pb facs="tcp:95404:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWIXT PHILAUTUS AND TIMOTHEUS, In Defence of D<hi rend="sup">r</hi> 
+               <hi>F<g ref="char:V">Ʋ</g>LLWOOD</hi>'s <hi>LEGES ANGLIAE:</hi> Againſt the Vindicator of Naked Truth, Stiling himſelf <hi>PHIL. HICKERINGILL.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rich. Royſton,</hi> Bookſeller to His moſt Sacred MAJESTY. 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:95404:2"/>
+            <pb n="1" facs="tcp:95404:2"/>
+            <head>
+               <hi>TIMOTHE<g ref="char:V">Ʋ</g>S</hi> and <hi>PHILA<g ref="char:V">Ʋ</g>T<g ref="char:V">Ʋ</g>S.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>Of the Author's Name, Phil. Hickeringill.</hi>
+               </head>
+               <sp>
+                  <speaker>TImotheus,</speaker>
+                  <p>Well met, <hi>Philautus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Philautus.</speaker>
+                  <p>Why, <hi>Philautus?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I know you call your ſelf, <hi>Phil. Hickeringill,</hi> but that <hi>Dutoh-Hobgoblin</hi> name, is ſo rugged and harſh in the mouth; and ſo unſutable to the ſmoothneſs of your <hi>Vindication</hi> of Naked Truth; that neither my ſelf, nor a Thouſand others can endure it: at the firſt time they heard it, it brought a <hi>Curſe</hi> with it; and they wiſh, they had never heard it ſince, and are frightned at the very ſound of it, as if it were <hi>conjuring.</hi>
+                  </p>
+                  <p>Indeed <hi>[Hickeringill]</hi> ſpeaks ill, and <hi>hears</hi> worſe, therefore as you have faced about, and chang'd your countenance, as to <hi>Religion,</hi> or a<g ref="char:EOLhyphen"/>gainſt it, I thought it not amiſs, to change your <hi>name</hi> too.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>How now <hi>Tim!</hi> haſt an <hi>itchy endeavour to be witty forſooth, in</hi> 
+                     <note place="margin">
+                        <hi>Vindic. p.</hi> 35.</note> 
+                     <hi>ſpite of Nature and thy Stars?</hi> enough of <hi>[Hickeringill]</hi> but why muſt <hi>Phil.</hi> be added to <hi>[autus]</hi> why <hi>Philautus?</hi> thou thinkſt thou haſt a trick for that too.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>To deal plainly with thee: every body perceives, that this <hi>Phil. Hickeringill,</hi> is the ſame Perſon, that lies proſtrate under the name of <hi>[Edmond]</hi> at the foot of <hi>Naked Truth:</hi> and it is known, that <hi>Phil.</hi> and <hi>Edmond,</hi> are all one, that is, <hi>Ned</hi> loves <hi>Hickeringill;</hi> and <hi>Hickeringill,</hi> is in love with <hi>himſelf;</hi> and for this Reaſon, I have made bold (for the better <hi>ſounds</hi> ſake) to call thee <hi>Philautus.</hi>
+                  </p>
+                  <p>But prethee <hi>Phil.</hi> why art thou pleaſed with that throatling name <hi>Phil. Hickeringill?</hi> is it not for the ſame reaſon? good wits may jump.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Say nothing <hi>Tim;</hi> and I will tell thee the <hi>naked truth;</hi> and whe<g ref="char:EOLhyphen"/>ther I thought of thy <hi>reaſon</hi> or not, I am reſolved, upon good reaſon, to <hi>love my ſelf:</hi> for I ſee little in the world, that a Man ſhould be fond
+<pb n="2" facs="tcp:95404:3"/> of; and but few that regard me as I deſerve, or merit my kindneſs.</p>
+                  <p>Nor can I expect otherwiſe, <hi>Plain dealing</hi> has few friends; and that's my <hi>Talent:</hi> beſides, I have flown at all ſorts of People, <hi>Fift-Monar<g ref="char:EOLhyphen"/>chiſts,</hi> 
+                     <note place="margin">
+                        <hi>p.</hi> 35.</note> 
+                     <hi>Anabaptiſts, Quakers, Independents, Presbyterians, Papiſts;</hi> and, I trow in a very civil manner, at our own <hi>Church-men</hi> too: and thus have provoked them all againſt me; and is it not time to take care of my ſelf?</p>
+                  <p>I had once ſome hopes of favour from the <hi>Church of England:</hi> but now I deſpair; for I ſaw little was to be got by her kindneſs, and oc<g ref="char:EOLhyphen"/>curr'd her diſpleaſure: to ſpeak the truth, ſhe hath always been a <hi>Step-Mother</hi> 
+                     <note place="margin">
+                        <hi>Vind p.</hi> 2.</note> 
+                     <hi>to the Author of the Naked Truth; and he never had any thing from her, but frowns and blows; at beſt, but a Bitt and a Knock:</hi> and now, alas! ſhe is in the <hi>Wane,</hi> and not worth the courting: I found her, lately, in the Frontiſpiece of a Book called, <hi>Leges Angliae,</hi> (a pre<g ref="char:EOLhyphen"/>tended anſwer to <hi>Naked Truth,)</hi> pictured in a very low and weeping poſture, groaning under the Croſs: and I hate her in her very <hi>picture;</hi> but ſeeing it is ſo ſad with her, I will pity and <hi>love my ſelf:</hi> therefore call me what thou wilt, I am <hi>Phil. Hickeringill,</hi> and will be ſo, in ſpight of the World and the <hi>Church</hi> too.</p>
+               </sp>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>Of the Title,</hi> Leges Angliae, <hi>one</hi> Fullwood, <hi>a</hi> libelling <hi>Pamphlet.</hi>
+               </head>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>THou mentioneſt a Book called, <hi>Leges Angliae:</hi> prethee, what's thy opinion of it?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>That Book, I have not patience to ſpeak of it; it ſo ſcanda<g ref="char:EOLhyphen"/>louſly handles my beloved, <hi>Naked Truth:</hi> it proves it to be all <hi>lies,</hi> and then, cloaths it with <hi>Bears-skins,</hi> and all ſhapes of Villany: and then expoſeth it, and hectors and beats, and kills it, and all that, under the deteſtable name of my chief old enemy, the <hi>Laws of England.</hi>
+                  </p>
+                  <p>Many years agon, theſe <hi>Laws of England,</hi> had like to have done me a miſchief; and I could never endure the name of them ſince; eſpeci<g ref="char:EOLhyphen"/>ally, when the wind blows <hi>Weſt-ward:</hi> and I wonder at my heart, how <hi>theſe</hi> Laws, can give warrant to others, in a <hi>Hectoring way, to ſay</hi> 
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ind p.</hi> 6.</note> 
+                     <hi>Come—Clergyman—deliver your Purſe, your Purſe.</hi>
+                  </p>
+                  <p>But with what <hi>Title his pitiful Pamphlet can challenge ſo ſwelling a Title, ſhall be conſidered only by the ſequel.</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>. 2.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <pb n="3" facs="tcp:95404:3"/>
+                  <speaker>Tim.</speaker>
+                  <p>Good <hi>Phil.</hi> why ſo angry? the <hi>Title</hi> did thee a kindneſs. Some think, had it not been for this <hi>Title,</hi> and a ſmall <hi>Jeſt,</hi> thou hadſt had little to ſay to the <hi>whole</hi> Book: and it ſeems to be true too, be<g ref="char:EOLhyphen"/>cauſe thou ſo <hi>often</hi> makeſt mention, and makeſt ſo much advantage of them.</p>
+                  <p>But to ſpeak my mind; a <hi>ſerious</hi> Book, that conſiſts chiefly of our <hi>Laws,</hi> and Vindicates a <hi>legal</hi> Government by Arguments of expreſs <hi>Laws,</hi> may wear this Title of <hi>Leges Angliae</hi> modeſtly enough: though I muſt tell thee, I am well aſſured that that Title was put to the Book by <hi>another</hi> hand, and not by the <hi>Authors;</hi> who knew it not certainly till he ſaw it in <hi>Print:</hi> He hath often ſaid he did not like it, becauſe he had twit Mr. <hi>Cary</hi> for ſtiling his <hi>leſſer</hi> Book, The <hi>Law of England,</hi> though that ſeems to be a <hi>greater</hi> Title.</p>
+                  <p>But good <hi>Phil.</hi> why muſt thy <hi>Vindication</hi> carry ſo much <hi>folly</hi> and rage in the <hi>front</hi> of it? Scornfully calling thy Adverſary (one <hi>Fullwood)</hi> though he tells the world both his <hi>Name</hi> and his <hi>Title,</hi> and <hi>Dignity:</hi> If he be a <hi>Doctor in Divinity,</hi> and a <hi>Dignitary</hi> in the Church, or but an aged <hi>Spectacle-Divine,</hi> thou ſhouldeſt have uſed him with leſs <hi>diſdain,</hi> if not with reverence. Some think he <hi>honoured</hi> thee too much, in con<g ref="char:EOLhyphen"/>deſcending to take notice of, and anſwer thy Book, and <hi>diſhonour'd</hi> himſelf.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Why did he not let <hi>Naked Truth</hi> alone then? why did he write ſo <hi>libelling</hi> a Pamphlet againſt it?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I know thou haſt betray'd thy <hi>wit</hi> as well as <hi>manners,</hi> in calling a ſerious Book, touching <hi>lawful government,</hi> written by an <hi>Ancient D. D.</hi> a <hi>libelling Pamphlet.</hi> But <hi>Phil.</hi> if he write that which is <hi>true,</hi> and ſet his <hi>name</hi> to it, how is his Book a <hi>Libel?</hi>
+                  </p>
+                  <p>That thou, againſt whom his Book is written wer't <hi>guilty</hi> enough, was evident; becauſe thou <hi>fled'ſt</hi> for it, not daring to put thy <hi>name,</hi> at firſt, to thy <hi>Naked Truth,</hi> as the Doctor doth to <hi>his</hi> Book. I ſay thou didſt thus <hi>fly</hi> for it: and that out of a ſenſe of <hi>guilt,</hi> or great <hi>fear:</hi> Fear, what, the <hi>men,</hi> or the <hi>Leges Angliae,</hi> thou hadſt offended by thy <hi>Naked Truth,</hi> would do with thee, ſhould they <hi>find</hi> thee out, as thou <hi>often confeſſeſt</hi> in that Book.</p>
+                  <p>Indeed, when thou hadſt got thy Friends about thee, I mean the <hi>Rabble,</hi> that like not the <hi>Laws</hi> of <hi>England;</hi> and, as thou thought'ſt, ſecured thy ſelf among thy <hi>Abettors;</hi> then thou appeareſt, and ſheweſt thy ſelf, though <hi>ſneakingly,</hi> at the <hi>Tail</hi> of thy Book.</p>
+                  <p>Seeing thy ſelf then in the <hi>face</hi> of thoſe moveable <hi>waters,</hi> thou ſeem<g ref="char:EOLhyphen"/>eſt to fall in <hi>love</hi> with, and pride thy ſelf, as the Author of a Book ſo highly eſteemed by the weak and diſturbed <hi>Populacy;</hi> and had I not gi<g ref="char:EOLhyphen"/>ven
+<pb n="4" facs="tcp:95404:4"/> thee a name before, thou mighteſt well be called after thy great Grandfather, <hi>Narciſſus.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Methinks thy way of concluding things with <hi>Verſes</hi> is marvel<g ref="char:EOLhyphen"/>lous edifying: Let me mind thee of what a <hi>Noble Pen</hi> hath noted to purpoſe:</p>
+                  <lg>
+                     <l>The people's love, with evil Acts is won:</l>
+                     <l>And either loſt or kept as it begun.</l>
+                     <l>What wind then blows poor Man into this Sea,</l>
+                     <l>But pride of heart and Singularity?</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>A Taſte of</hi> Phil's Rhetorick <hi>and</hi> good Manners.</head>
+               <sp>
+                  <speaker>TIM.</speaker>
+                  <p>So much for thy <hi>Title</hi> Page. Caſting my eye into thy <hi>Book,</hi> I find it ſtrew'd all over with ſuch fair <hi>flowers,</hi> beſtow'd both on the <hi>Author</hi> and his <hi>Leges Angliae,</hi> that I am tempted to pick them up, and dreſs thy <hi>ſelf</hi> and thy <hi>Vindication</hi> with them.</p>
+                  <p>As for the <hi>Author,</hi> thou wilt not return him <hi>Railing</hi> for <hi>Railing,</hi> as thou aſſureſt him, <hi>pag.</hi> 21. thoſe <hi>wonted attacks of effeminate and doting old men:</hi> but thou obſerveſt, that he is an <hi>incomparable finder, and quick-ſighted Commentator for a man of his age,</hi> that <hi>cannot ſee without Spectacles:</hi> and that <hi>old men can prate and ſcould,</hi> and <hi>ſo does he:</hi> Thou ſtileſt him <hi>Dull fool; Curſing railer; Prelatical champion; deſpicable opponent; fibling, quibling, fribling, fumbling, ſcribling</hi> Archdeacon: <hi>Greedy-gut; gormandizing, unthinking Black-coat; ſtockt with a little ſuperficial learning:</hi> Impertinent D. D. <hi>that has not his fellow amongſt them all for inſolence and impudence,</hi> &amp;c.</p>
+                  <p>Thus thou adorneſt the <hi>Author;</hi> and his <hi>Book</hi> thou haſt ſo habited, that it looks juſt like the <hi>Author;</hi> for, it is the inſolent and the <hi>empty windy vapours of a huffing Man; trifling entertainment; thin, futile</hi> and <hi>Cobweb contextures and compoſures; inſufferable and vain-glorious petu<g ref="char:EOLhyphen"/>lancy; unparalell'd ſhallowneſs of expreſſion; extravagances; impertinen<g ref="char:EOLhyphen"/>ces; nauſeous repetitions; crazy principles; a great deal of prattle to no purpoſe,</hi> &amp;c.</p>
+                  <p>But to be ſerious <hi>Phil.</hi> is this thy way of <hi>anſwering</hi> Books? Shouldeſt thou not in all juſtice and Conſcience, <hi>inſtance</hi> ſomething, either in the <hi>Author,</hi> or his <hi>Book,</hi> that deſerves (at leaſt in thy own ſingular <hi>opinion,</hi>
+                     <pb n="5" facs="tcp:95404:4"/> if in no bodies elſe) ſuch <hi>ſcoundrel, Billings-gate Ribaldry,</hi> which turns the ſtomach of all <hi>modeſt Readers?</hi>
+                  </p>
+                  <p>I muſt tell thee <hi>Phil.</hi> what <hi>ſober</hi> men conclude upon it: Thy <hi>deſpiſing</hi> the Author and his Book, without Evidence, will provoke him and thy Reader to <hi>deſpiſe</hi> thee; and that not without cauſe, both <hi>Logical</hi> and <hi>Moral:</hi> For 'tis obſerved, that when <hi>paſſion</hi> begins to bluſter thus, 'tis an argument, that there is both <hi>need</hi> and <hi>want</hi> of <hi>Reaſon:</hi> And that where the <hi>breath ſtinks</hi> ſo abominably, the <hi>bowels</hi> are <hi>rotten;</hi> there is rottenneſs <hi>within:</hi> for out of the abundant ſuperfluity of naughtineſs in the <hi>heart,</hi> the <hi>mouth</hi> utters ſuch <hi>peſtilent ſteams:</hi> And thus thou haſt ſhewn thy ſelf, in the judgment of all wiſe and good men, both a bad <hi>Advocate</hi> and an <hi>ill man:</hi> This ſeems to lye <hi>heavy</hi> upon thee, and how thou canſt ſhake it off, I know not.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>
+                     <hi>Tim.</hi> art thou Mr. <hi>Dullman</hi> too? let me indoctrinate thee a little better.</p>
+                  <p>Know then, that the kind of <hi>Cattle</hi> that ſtare at, and prick up their ears to hear <hi>Hickeringill,</hi> are prepared to embrace any thing that I call <hi>Naked Truth;</hi> and is thrown out <hi>bravely,</hi> and boldly againſt <hi>Church<g ref="char:EOLhyphen"/>men,</hi> eſpecially their <hi>Courts.</hi>
+                  </p>
+                  <p>My buſineſs is not to ſatisfie <hi>Reaſon</hi> (where there is none to deal with) but to keep up and cheriſh <hi>prejudice,</hi> to foment and inflame <hi>paſſion</hi> and Faction, and thus to carry on the grateful intereſt of the <hi>brutiſh</hi> Populacy: and we muſt have <hi>Engines ſuitable</hi> to the work we are about: and what are <hi>they,</hi> but to deſpiſe <hi>dominion,</hi> and to ſpeak evil of <hi>dignities?</hi> and to throw dirt, with both hands, at all that are Ad<g ref="char:EOLhyphen"/>vocates for <hi>Government?</hi>
+                  </p>
+                  <p>When a man is honoured as the <hi>Head</hi> of the <hi>Herd,</hi> thus engaged and <hi>led</hi> on, the enemies <hi>Reaſon</hi> ſhall never <hi>hit</hi> us; nor our <hi>Rage</hi> and Railing ever <hi>miſs</hi> them: and the Intrigue goes on.</p>
+                  <p>Thou wilt find anon, that I grant his <hi>Arguments</hi> cannot be anſwered; therefore, that's a work not to be undertaken in <hi>earneſt</hi> (though here alſo I ſet up my <hi>colours,</hi> and entertain ſome ſlight skirmiſhes) but while <hi>I hector,</hi> and rant, and call Names, with <hi>impudence</hi> (enough, thou think'ſt) the people will find ſufficient <hi>reaſon</hi> to cry <hi>victoria:</hi> Say no more <hi>Tim.</hi> I know it by experience.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Phil.</hi> ſo wiſe and ingenuous diſcourſe ſhall be crown'd with a Verſe.</p>
+                  <lg>
+                     <l>
+                        <hi>Thus we diſcern, what courſes they muſt hold,</hi>
+                     </l>
+                     <l>
+                        <hi>That make this Humour of</hi> Applauſe <hi>their end:</hi>
+                     </l>
+                     <l>
+                        <hi>They have no true, and ſo no conſtant mold;</hi>
+                     </l>
+                     <l>
+                        <hi>Light</hi> change, <hi>is both their enemy and friend.</hi>
+                     </l>
+                     <pb n="6" facs="tcp:95404:5"/>
+                     <l>Heroſtratus <hi>ſhall prove,</hi> Vice <hi>governs fame;</hi>
+                     </l>
+                     <l>
+                        <hi>Who built that Church, he burnt, hath loſt his Name.</hi>
+                     </l>
+                  </lg>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>But, <hi>Phil.</hi> I am not at all ſatisfied, why you ſhould fall upon the Doctor <hi>without Book:</hi> You do not find he ſerves you <hi>ſo;</hi> perhaps, he reflects <hi>ſeverely</hi> enough, yet he keeps within the compaſs of your <hi>wri<g ref="char:EOLhyphen"/>ting:</hi> you can have no reaſon to provoke to ſearch too <hi>narrowly</hi> into what you <hi>have</hi> been.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>What doſt mean?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I mean to blame you, for calling him, <hi>Paedagogue:</hi> you ſay, <hi>in his Juvenile years, when he was (as indeed he was) a furious chaſtizing Pedagogue:</hi> and, with no little ſcorn you add, <hi>another whipping Tom, he took pleaſure to laſh and ſlaſh,</hi> p. 2.</p>
+                  <p>What <hi>Confidence</hi> is this, thus to overlaſh, beyond your <hi>Knowledge,</hi> and contrary to <hi>known truth!</hi> the Doctor was never either a <hi>Paedagogue,</hi> or <hi>Paedagogues</hi> Son: yet, you ſay, <hi>Indeed, he was ſo:</hi> but perhaps you imagined this, from his <hi>laſhes,</hi> they fell ſo heavy from an <hi>old man.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I confeſs the <hi>ſmart</hi> made me a little <hi>outragious:</hi> I mean, that which I felt from the <hi>back-blows,</hi> in his <hi>Epiſtle:</hi> for the <hi>Clubb-knocks</hi> of his Arguments, I could have born them, and ſaid <hi>nothing,</hi> but <hi>Mum:</hi> however, thou ſhouldſt not have made the Obſervation.</p>
+               </sp>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>Phil's</hi> fondneſs <hi>or kindneſs to</hi> himſelf, <hi>and flattery.</hi>
+               </head>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>BUT, <hi>Phil,</hi> I muſt obſerve, that thou art <hi>rude</hi> with the <hi>Doctor,</hi> thou art <hi>over-kind</hi> to thy <hi>ſelf;</hi> even to flattery and groſs <hi>dawbing,</hi> uſque ad <hi>nauſeam.</hi>
+                  </p>
+                  <p>Doth not that ſound <hi>ſweetly</hi> out of thy <hi>own</hi> mouth, that, <hi>above all others, thou haſt diſarmed the Fanaticks, &amp;c.</hi> p. 2. Again, with great ſelf-denial [it <hi>coſt me not ſeven days, I proteſt, to anſwer the ſix Months abortive throws of, &amp;c.</hi> p. 36. 'Tis miraculous thou couldſt diſpatch ſuch a <hi>nothing</hi> in ſo <hi>ſhort</hi> a time. Again, how kindly doſt thou aſpire, when thou breatheſt out <hi>[If I were Lord Chancellour.</hi> Again, 'tis meekly ſaid, <hi>what has already</hi> (ſpeaking of thy naked truth) <hi>got a ver<g ref="char:EOLhyphen"/>dict all</hi> England <hi>over; except ſuch, &amp;c.</hi> Laſtly, not to glut the <hi>Reader</hi> with ſuch <hi>luſcious</hi> fair, that incomparable <hi>tang</hi> of thy humility: where<g ref="char:EOLhyphen"/>by thou intimateſt, that the Doctor's <hi>end</hi> in his anſwer, <hi>was to be taken</hi>
+                     <pb n="7" facs="tcp:95404:5"/> 
+                     <hi>notice of, for daring to grapple with the naked truth;</hi> thus, <hi>purchaſing a name and a fame, &amp;c.</hi>
+                  </p>
+                  <p>But prethee, <hi>Phil.</hi> what meaſures doſt thou uſe? certainly, ſuch as others are ſtrangers to: nor is it poſſible thou ſhould'ſt ſatisfie thy ſelf for this ſilly vaunt.</p>
+                  <p>Let me whiſper in thine ear; wiſer, and <hi>better,</hi> and greater Men than thy ſelf, expreſſed their trouble to the Doctor, when they heard he was about to reflect upon thy <hi>ſcandalous</hi> Book; (for ſo they called it) that he ſhould condeſcend ſo far, as to <hi>honour</hi> it with an Anſwer: and fear<g ref="char:EOLhyphen"/>ed, that thou <hi>wouldſt value thy ſelf</hi> (thoſe were the words) <hi>upon thy be<g ref="char:EOLhyphen"/>ing</hi> taken <hi>ſo much</hi> notice of, by a <hi>Dignitary</hi> of the Church of <hi>England:</hi> which, indeed, had almoſt prevented the <hi>Print.</hi>
+                  </p>
+                  <p>But at length, <hi>Phil.</hi> thou art a <hi>Gentleman;</hi> and will have the world know thou haſt 200 <hi>l. per An.</hi> Land of Inheritance. Well <hi>Phil,</hi> be it ſo: but we muſt take thy word for both, ſeeing thou liveſt by <hi>ill neighbours.</hi>
+                  </p>
+                  <p>We have thy <hi>Picture</hi> drawn to the life, by a <hi>Modern Dawber</hi> (no pri<g ref="char:EOLhyphen"/>mitive Painter) in all thy <hi>Books;</hi> but, it is well, that <hi>[Gentleman]</hi> is written <hi>by,</hi> otherwiſe, a Man would ſwear, 'twere the <hi>Picture</hi> of a <hi>Cock</hi> or <hi>Bull</hi> rather than a <hi>Gentleman:</hi> a Cock for his <hi>Crowing;</hi> or a Bull for his <hi>Rage.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>A Specimen of his</hi> Wit: <hi>Doctor's</hi> Expreſſions <hi>vindicated.</hi>
+               </head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>WHat's the matter, <hi>Tim.</hi> art quite loſt, and turn'd <hi>Enemy?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I had almoſt done with thee, but thy wonderful <hi>Witticiſms,</hi> which I lately diſcovered, have pretty well reconciled me: and made me amends for all together.</p>
+                  <p>How ſmoothly runs that, <hi>viz.</hi> a <hi>Proteſtant Head muſt have a Prote<g ref="char:EOLhyphen"/>ſtant Face!</hi> how Ingenuous that, [the Proem takes up too much room!] in another <hi>character,</hi> leaſt the beſt of <hi>Puns</hi> ſhould eſcape unobſerved, which, without the coſt of a coſtive <hi>Anagram,</hi> more than pays the Doctor for his <hi>Hobby Warr-Hawks:</hi> but, there's no end of this <hi>Topick,</hi> every Line has its <hi>Salt:</hi> and therefore, paſſing all the reſt, I ſhall crown my obſervation with a little further notice of that <hi>Anagram,</hi> we hint<g ref="char:EOLhyphen"/>ed at, which crowns thy wit at the end of thy Book: 'tis this <hi>[Fra. Fullwood, war. dul-fool.]</hi>
+                  </p>
+                  <pb n="8" facs="tcp:95404:6"/>
+                  <p> Now, <hi>Phil.</hi> let's be ſerious a-while: and <hi>war-dull-fool,</hi> indeed, is his <hi>name,</hi> as much too hard for thy <hi>wit,</hi> as his <hi>Arguments</hi> for thy <hi>Rea<g ref="char:EOLhyphen"/>ſon?</hi> what makes thee deal ſo barbarouſly with it? O <hi>Phil.</hi> thy wit is cruel and ſhort; for, <hi>War-dull fool,</hi> can reach but to <hi>Fra. <g ref="char:V">Ʋ</g>lwood:</hi> and ſhort and cruel: what, cut off the <hi>lower</hi> half of his <hi>Chriſtian</hi> name, and the <hi>Head</hi> of his <hi>Sirname?</hi> I now find thy knack at capping of Ver<g ref="char:EOLhyphen"/>ſes and <hi>uncapping</hi> of Names: and am not much concern'd, tho' his <hi>Name</hi> thus ſuffers, ſeeing his <hi>reputation</hi> is above thy reach.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Would any Man alive beſide thee have been ſuch a <hi>fool in print?</hi> and without ſhame have boaſted of this <hi>ſubtle Sylly</hi> Anagram, as thou calleſt it thy ſelf: ſuch folly, calls for the <hi>fury</hi> of a <hi>chaſtizing Paeda<g ref="char:EOLhyphen"/>gogue,</hi> and <hi>whipping Tom</hi> indeed.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>What, becauſe it is not true to a <hi>letter!</hi> the troth is, <hi>Tim,</hi> for a <hi>phanſie</hi> or a humour, we <hi>Wits,</hi> regard, neither <hi>truth</hi> nor <hi>ſenſe,</hi> nor <hi>good manners.</hi>
+                  </p>
+                  <p>But now I am provoked, I'le expoſe two ſuch inſtances of the <hi>Do<g ref="char:EOLhyphen"/>ctor's wit,</hi> that are ſtrangers enough to ſence, and as much as any of mine.</p>
+                  <p>1. What doſt think of his <hi>rock of Sand;</hi> upon which he ſuppoſeth me to triumph? I never heard of a Rock of Sand before.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>It may be ſo <hi>Phil.</hi> but I think the expreſſion is at leaſt pardon<g ref="char:EOLhyphen"/>able: but thy Reading in <hi>Philoſophy</hi> is hardly ſo: haſt forgot or didſt never hear of that queſtion about the generation of Stones and Rocks?</p>
+                  <p>But ceaſe thy wonder: he never intended a <hi>natural</hi> real and firm Rock; for he knew well enough, that thou hadſt none <hi>ſuch</hi> to <hi>ſtand</hi> upon: but he meant ſuch as thou <hi>hadſt,</hi> and ſuch as thy matter depend<g ref="char:EOLhyphen"/>ed upon; a <hi>fictitious,</hi> falſe <hi>counterfeit</hi> rock: and ſuch a one may eaſily be made of <hi>Sand,</hi> mix'd with the ſlime and <hi>dirt</hi> which ſo much <hi>defiles</hi> Naked Truth.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>But thou canſt never bring him off for his other extravagancy: for lying, envy, malice, &amp;c. he ſaith, <hi>I am a very Angel of light.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>What <hi>Phil.</hi> fail in thy <hi>Rhetorick</hi> too? haſt forgotten the figure that warrants ſuch <hi>manners</hi> of expreſſion? I wonder, what thou wouldſt be called; for ſuch kind of virtues: as <hi>lying,</hi> &amp;c. or any of thy other excellencies. An <hi>Angel of Darkneſs,</hi> and Confuſion; the <hi>Prince of the Air:</hi> the <hi>Accuſer of the Brethren:</hi> or a <hi>Devil-incarnate!</hi>
+                  </p>
+                  <lg>
+                     <l>And in this Sphear, this Wilderneſs of Evils</l>
+                     <l>None proſper highly, but the perfect Devils.</l>
+                  </lg>
+               </sp>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="9" facs="tcp:95404:6"/>
+               <head>CHAP. VI. <hi>A previous attempt of Mr.</hi> Phil's Judgment <hi>and</hi> Logick.</head>
+               <div n="1" type="section">
+                  <head>SECT. I.</head>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>THough thou approacheſt towards the <hi>main battle timidè,</hi> and with deal of <hi>modeſty</hi> even to deſpair; yet I obſerve thou makeſt ſome <hi>on-ſets,</hi> that give tokens of ſome <hi>braveneſs</hi> in thee.</p>
+                     <p>I acknowledge, thou art ſtrangely qualified: with <hi>ſtoutneſs</hi> of body, <hi>reſoluteneſs</hi> of mind, invincible <hi>paſſions,</hi> haughtineſs of <hi>expreſſion,</hi> ac<g ref="char:EOLhyphen"/>curateneſs in <hi>Hiſtory</hi> and <hi>Law,</hi> eſpecially againſt the <hi>Church</hi> and Eccle<g ref="char:EOLhyphen"/>ſiaſtical Courts; all managed with a ſingular ſtream of <hi>wit</hi> and fancy, as I lately noted. Yet to deal plainly with thee, <hi>Phil.</hi> there is a ſmall <hi>gift</hi> or two, that ſeem not to be altogether ſo compleat in thee. I mean, that clearneſs of <hi>mind</hi> and foundneſs of <hi>wiſdom,</hi> and that dexte<g ref="char:EOLhyphen"/>rous faculty of <hi>reaſoning,</hi> that ſhould crown a <hi>diſput ant</hi> of thy ſtrange <hi>adventure.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>How man! why that's my glory: and in the knack of <hi>arguing</hi> I challenge the world.</p>
+                     <p>But if it ſhould be with me, as thou ſaiſt, yet thou maiſt perceive, I am even with this <hi>Archdeacon:</hi> for he lai'th out his whole ſtrength in a <hi>little point,</hi> which I denied and indeed argued againſt, with all my might and skill in <hi>Law</hi> and <hi>Story:</hi> Namely, the Lawfulneſs of <hi>Eccleſi<g ref="char:EOLhyphen"/>aſtical Government;</hi> and ſeems to neglect thoſe <hi>Weightier</hi> things, of <note place="margin">
+                           <hi>Pag.</hi> 
+                           <gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note> 
+                        <hi>Procurations, Synodals, Fees</hi> of Courts, <hi>&amp;c.</hi> and is not that as ill in him, as for me, to ſhew my <hi>manhood,</hi> in thoſe <hi>noble</hi> points of <hi>reſolution, paſſion, fancy, ſtory</hi> and <hi>expreſſion;</hi> though I ſhould be found <hi>leſs,</hi> and leſs concerned in the <hi>inconſiderable</hi> points of <hi>wiſdom</hi> and <hi>reaſon.</hi> How<g ref="char:EOLhyphen"/>ever, <hi>Tim.</hi> I know no <hi>Nakedneſs</hi> in my diſcourſe, but the Naked Truth: If thou doſt, ſhew it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>This <hi>Nakedneſs</hi> appears in the whole body of thy Book; not to <hi>prevent</hi> that diſcovery, I ſhall here only inſtance in two of thy at<g ref="char:EOLhyphen"/>tempts.</p>
+                     <p>1. The <hi>Doctor</hi> had ſaid, our <hi>Laws exclude the purely Spiritual power of the keys from the Supremacy of our Kings: except it be to ſee that Spiri<g ref="char:EOLhyphen"/>tual men do their duty therein.</hi>
+                     </p>
+                     <p>Here upon I am aſhamed to ſee, how thou <hi>triumphs</hi> before the Victo<g ref="char:EOLhyphen"/>ry, and how pury like, how poorly, and fallaciouſly thou attack'ſt him.</p>
+                     <pb n="10" facs="tcp:95404:7"/>
+                     <p> Firſt, Thou ſay'ſt K. <hi>Hen.</hi> 3. <hi>preacht</hi> in Pulpit, <hi>ergo,</hi> &amp;c. Second<g ref="char:EOLhyphen"/>ly, <hi>Emperors</hi> called <hi>Councils</hi> and approved their <hi>Canons: Ergo:</hi> Third<g ref="char:EOLhyphen"/>ly, Our <hi>Kings</hi> are ordained <hi>Prieſts</hi> as <hi>Baker</hi> relates, therefore thou ſtrongly concludeſt they have the <hi>power of the Keys;</hi> but the concluſion ſhould have been, that they have the <hi>(purely Spiritual)</hi> power of the Keys: doeſt not perceive it, <hi>Phil.</hi>
+                     </p>
+                     <p>Our Laws do ſay that the King is <hi>mixta perſona cum ſacerdote:</hi> and all thoſe enſigns at his <hi>Coronation</hi> import as much: but in which of them is it ſaid, <hi>Take thou Authority to preach the word of God, or admi<g ref="char:EOLhyphen"/>niſter the Sacraments?</hi>
+                     </p>
+                     <p>Here, <hi>Phil.</hi> thy underſtanding fail'd thee: the <hi>political</hi> power of the Keys, do in a ſence belong to our <hi>Kings,</hi> but not the <hi>purely Spiritual power,</hi> except <hi>mediately,</hi> as at firſt was granted: the <hi>King</hi> is a Prieſt in <hi>tanto</hi> not in <hi>Toto.</hi>
+                     </p>
+                     <p>But if thou canſt prove our <hi>Kings</hi> to be <hi>Prieſts</hi> in all reſpects: Look to it Mr. <hi>Baxter:</hi> you are undone: for then we have a <hi>proper Spiritual</hi> head of the Church of <hi>England:</hi> yea, look to it <hi>Phil.</hi> for, near thou haſt undone thy <hi>ſelf,</hi> in thy <hi>ſtate</hi> Religion.</p>
+                     <p>For if the <hi>Head</hi> be <hi>properly</hi> a <hi>Prieſt,</hi> what body can fit him, acting <hi>as</hi> a <hi>Prieſt</hi> in making <hi>Canons</hi> and <hi>governing</hi> the Church, but a body of <hi>Prieſts?</hi> Is the <hi>Parliament,</hi> with whom he maketh other <hi>Laws,</hi> or the <hi>Judges, Sheriffs, Juſtices,</hi> &amp;c. by whom he governs the Kingdom, a fit body for a <hi>Prieſtly</hi> head? Do not theſe act under him rather as a <hi>King?</hi> and a <hi>Convocation of Prieſts</hi> and <hi>Spiritual Courts,</hi> more congruouſly act under him as a <hi>Prieſt</hi> (if he be, in all points, a <hi>Prieſt,</hi> and have all the Spiritual power of the Keys) both in making <hi>Canons, i. e.</hi> Spiritual Laws, and <hi>governing</hi> the Church, by them?</p>
+                     <lg>
+                        <l>Poor—Ape! why art thou venturing ſtill</l>
+                        <l>At this ſo ſubtle game, and play'ſt ſo ill?</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II. <hi>Another piece of his</hi> Logick <hi>againſt</hi> Chancellors, <hi>&amp;c.</hi>
+                  </head>
+                  <p>
+                     <hi>SEcondly,</hi> We have another ſuch trial of thy <hi>honeſt Logick</hi> upon a part of his <hi>Proem;</hi> which, if thou hadſt <hi>quite</hi> (as thou ſay'ſt thou hadſt almoſt) forgotten, little had been loſt.</p>
+                  <p>'Tis <hi>this:</hi> the Doctor intimates that <hi>Chancellors, Regiſters,</hi> &amp;c. are <hi>Aſſiſtants</hi> by Law, allowed to <hi>Biſhops,</hi> &amp;c. and that in 1 <hi>Cor.</hi> 12. 28. we
+<pb n="11" facs="tcp:95404:7"/> read of helps in Government, which he intimates is a <hi>general</hi> warrant to the <hi>Law</hi> of the <hi>Land,</hi> for ſuch allowance.</p>
+                  <p>Now reflect upon thy anſwer, <hi>Phil.</hi> in ſtead of an anſwer thou very honeſtly impoſeſt and intrudeſt <hi>another</hi> Concluſion: Thou ſay'ſt he would prove theſe inferior Officers, to be all <hi>Church-officers Jure Divi<g ref="char:EOLhyphen"/>no:</hi> which was the very objection he went about to remove: he doth deny them to be <hi>Church-officers,</hi> ſtrictly ſpeaking; neither doth he af<g ref="char:EOLhyphen"/>firm them to be <hi>Jure Divino:</hi> but he ſaith, and thou ſay'ſt nothing to the contrary, but a great truth <hi>(that Eſquire Dun is ſo too)</hi> he ſaith, that if making and keeping <hi>Acts of Court;</hi> if managing and ordering <hi>Cauſes</hi> aright; if ſerving <hi>Summons</hi> and executing <hi>Mandates</hi> of the <hi>Judge,</hi> if theſe be reaſonable things and <hi>expedient</hi> in government, then the per<g ref="char:EOLhyphen"/>ſons appointed by Law to perform theſe things, are <hi>uſeful</hi> in govern<g ref="char:EOLhyphen"/>ment, and agreeable to that general word and warrant in <hi>Scripture:</hi> and upon the very ſame <hi>moral</hi> and prudential ground, <hi>Deacons</hi> were at firſt appointed by the <hi>Apoſtles (Acts</hi> 6.) and many other things juſtly practiſed, even in the <hi>firſt</hi> 300. <hi>years;</hi> though not found in uſe in the <hi>Apoſtles time:</hi> for the <hi>ſucceeding</hi> Ages of the Church inherited <hi>Reaſon</hi> and prudence, whoſe proper uſe is to apply <hi>general</hi> Rules in <hi>Scripture</hi> with <hi>particular</hi> conveniency to <hi>times</hi> and <hi>places:</hi> but, <hi>Phil.</hi> if thou haſt <hi>neither</hi> Reaſon nor Prudence, how ſhall a man <hi>beat this into thy head?</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 25.</note>
+                  </p>
+                  <p>Thou ſay'ſt, the Doctor has no <hi>guts in his brains;</hi> one would think thou hadſt been in <hi>Devonſhire,</hi> and that ſome body had taken out thy <hi>brains</hi> and put in <hi>White-pot.</hi>
+                  </p>
+                  <p>So much upon the <hi>Proem</hi> too.</p>
+               </div>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII. <hi>A</hi> ſtep <hi>towards the</hi> matter <hi>of the Doctors</hi> Book, <hi>and the</hi> main Battle.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>THeſe things, <hi>Tim.</hi> are about the <hi>out-works</hi> only; but do not I quit my ſelf like a <hi>man,</hi> when I come into the open <hi>field,</hi> or, at leaſt, like a <hi>crafty</hi> combatant.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>At preſent, I ſhall only remark to thy eternal honour, that thou prepareſt thy ſelf like a man of war indeed, and vieweſt thy ene<g ref="char:EOLhyphen"/>my in all the <hi>ſtrength</hi> of his <hi>five Propoſitions</hi> (in oppoſition to <hi>thine,</hi> 
+                     <note place="margin">
+                        <hi>Pag.</hi> 5.</note>
+                     <pb n="12" facs="tcp:95404:8"/> againſt Eccleſiaſtical Government) but durſt thou have ſtood to any one of them, thou hadſt been a <hi>Man</hi> indeed.</p>
+                  <p>But, inſtead of that, thou flieſt from <hi>his</hi> and <hi>thy own</hi> Propoſitions too; and leaveſt them to defend themſelves: And as a man <hi>knock'd</hi> oth' head, and <hi>ſtun'd</hi> with the blows received before, thou <hi>ſtaggereſt</hi> and rambleſt from one impertinent <hi>ſtory</hi> to another, but always avoideſt the <hi>main point.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Perhaps I had reaſon, the point was <hi>ſharp.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <argument>
+                  <p>PROP. I. <hi>Our Eccleſiaſtical Juriſdiction was not derived from the Pope, but from the Crown before the Reformation by</hi> Hen. 8.</p>
+               </argument>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>NOW for the <hi>Rancounter,</hi> as thy War-like word is; Is <hi>this</hi> Propoſition true or <hi>no?</hi> If it be not true, why doſt thou <hi>grant</hi> it at laſt? If it be true, why doſt oppoſe it, and ſhew all thy little <hi>Wit</hi> and impertinent <hi>ſtory</hi> to obſcure or weaken it? thou art the Author of <hi>Naked Truth.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I will ſpeak plain anon; but I'le have liberty to ſhew my Parts and <hi>Reading:</hi> therefore, <hi>quomodo probas, Domine D. D.</hi> Pag. 5.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>The Doctor <hi>begins</hi> his proof, by minding thee of the Ancient <hi>Conſtitution</hi> of the <hi>Engliſh</hi> Church: and teaching thee, if thou be not too old or too ſtubborn to learn, That it was a known <hi>Law</hi> 25 <hi>Edw.</hi> 1. and 25 <hi>Edw.</hi> 3. long before <hi>Hen.</hi> 8. that the <hi>Church</hi> of <hi>England</hi> was foun<g ref="char:EOLhyphen"/>ded in <hi>Epiſcopacy</hi> by our <hi>Kings,</hi> &amp;c. and not in the Papacy.</p>
+                  <p>To this great <hi>ground</hi> of truth, how wild an Anſwer have we, <hi>Pag.</hi> 5.</p>
+                  <p>Thou ſay'ſt with equal <hi>ignorance</hi> and <hi>ſcorn, I always thought (till now) that our Church of</hi> England <hi>(I know not for his Church of</hi> England) <hi>was neither founded upon Epiſcopacy, nor the Papacy, but on</hi> Chriſt <hi>the Rock of Ages.</hi>
+                  </p>
+                  <p>Would any man alive, beſide <hi>Phil.</hi> have had ſo many <hi>blunders</hi> in ſo few words?</p>
+                  <p n="1">
+                     <pb n="13" facs="tcp:95404:8"/> 1. The Doctor ſaith, as the <hi>Law</hi> ſaith, that our Church was found<g ref="char:EOLhyphen"/>ed in Epiſcopacy: thou proveſt by thy <hi>wiſe thought,</hi> (I always thought) that it was not founded <hi>
+                        <g ref="char:V">Ʋ</g>PON</hi> Epiſcopacy: thou art it ſeems a <hi>thinking black-coat:</hi> however that may paſs for thy <hi>firſt Blunder.</hi>
+                  </p>
+                  <p n="2">2. And the ſecond is like unto it: the Doctor ſays, our Church was founded in <hi>Epiſcopacy:</hi> thou thinkſt it was founded <hi>ON Chriſt:</hi> as if the Church could not be founded <hi>in Epiſcopacy</hi> and <hi>ON Chriſt</hi> too: thy <hi>ſecond</hi> blunder.</p>
+                  <p n="3">3. A Church may be founded on Chriſt his <hi>Perſon,</hi> and doctrine <hi>prin<g ref="char:EOLhyphen"/>cipally,</hi> as the <hi>chief Corner-ſtone:</hi> and yet <hi>mediately, ſecondarily,</hi> and <hi>doctrinally</hi> too, on his <hi>Apoſtles</hi> and their Succeſſors, the <hi>Biſhops,</hi> thou waſt not aware of this <hi>Phil.</hi> thy <hi>third</hi> blunder.</p>
+                  <p n="4">4. A Church may be ſaid to be founded two ways: in its <hi>conſtitution, eſſentially</hi> conſidered, and ſo ours, was founded by Chriſt, through the means of his <hi>Miniſters,</hi> firſt calling us: ſecondly, <hi>Organically,</hi> by way of <hi>Donation, Endowment, Inveſtiture</hi> and <hi>Secular</hi> advantages: thus, our Church was <hi>at firſt</hi> founded by our <hi>Kings,</hi> as the Law ſaith: this not heeded, made thy <hi>fourth blunder.</hi>
+                  </p>
+                  <p n="5">5. But the heavieſt blunder is, thy ſtumbling over the <hi>main</hi> obſerva<g ref="char:EOLhyphen"/>tion, for which the Doctor cited that <hi>Law:</hi> Viz. that ſeeing our Church was founded by <hi>our Kings,</hi> in Epiſcopacy, therefore the <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> power did not <hi>originally,</hi> nor in thoſe times, according to our <hi>own Laws,</hi> depend upon the <hi>Pope,</hi> but upon the <hi>Crown: Q. E. D.</hi> which was then the ſence of the <hi>Laws,</hi> and all the <hi>States</hi> of the Realm, long before <hi>Hen.</hi> 8. as alſo is <hi>noted</hi> and aſſented unto, and <hi>inſiſted</hi> on, at the <hi>beginning</hi> of his <hi>Reformation.</hi>
+                  </p>
+                  <p>To aſſert the contrary, is certainly to aſſert a <hi>Popiſh</hi> opinion, and one of the greateſt <hi>Arguments,</hi> the <hi>Romaniſts</hi> uſe to Juſtifie the Papal <hi>
+                        <g ref="char:V">Ʋ</g>ſur<g ref="char:EOLhyphen"/>pation</hi> in <hi>England;</hi> take it as thou canſt, <hi>Phil.</hi>
+                  </p>
+                  <p>Leave off this <hi>club-way</hi> of arguing; thou wilt enſnare thy ſelf: thy <hi>Talent, Phil.</hi> lies another way: thou haſt no clear <hi>diſtinguiſhing</hi> Head; thou art better at <hi>dividing:</hi> and more skill'd in the methods of <hi>con<g ref="char:EOLhyphen"/>founding</hi> than of <hi>founding</hi> the Church of <hi>England.</hi>
+                  </p>
+                  <p>What didſt mean <hi>Phil.</hi> by that non-ſenſical <hi>cant</hi> upon a place of <hi>Scri<g ref="char:EOLhyphen"/>pture:</hi> I know it was not thy deſign to ſtumble upon the <hi>Rock of Ages,</hi> and fall upon St. <hi>Peter</hi>'s.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Enough of this, <hi>Tim.</hi> fool: thou know'ſt, to eſcape the <hi>Law,</hi> we may flie to the <hi>Goſpel:</hi> thou knowſt <hi>Phil,</hi> well enough; he is for a <hi>Legal Scripture</hi> and Religion; except when it is againſt him: beſides, he finds canting on <hi>Scripture,</hi> tho' never ſo impertinently, ſounds very <hi>luſciouſly,</hi> in ſome Mens ears, that I have a mind to gratifie.</p>
+               </sp>
+               <div n="2" type="section">
+                  <pb n="14" facs="tcp:95404:9"/>
+                  <head>SECT. II. <hi>His other Arguments againſt our</hi> power <hi>before</hi> Hen. 8.</head>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>THen let's ſee how thou proſpereſt with thy other Arguments againſt this point.</p>
+                     <p n="1">1. Thou ſaiſt, the <hi>Pope</hi> was <hi>Head</hi> of our Church before <hi>Hen.</hi> 8. but 'tis evident he was not ſo <hi>legally,</hi> either by <hi>Law</hi> or <hi>Conſtruction</hi> of Law, or <hi>really</hi> ſo, in the <hi>Conſtitution</hi> of the Church of <hi>England:</hi> he was only ſo in <hi>pretence,</hi> and by illegal <hi>
+                           <g ref="char:V">Ʋ</g>ſurpation:</hi> he had never <hi>poſſeſſion</hi> by <hi>Law,</hi> but what he uſurped was <hi>contrary</hi> to Law, and the ancient <hi>Cuſtomes</hi> of the Land: as my Lord <hi>Coke</hi> demonſtrates; tho' <hi>he</hi> is not to be taken notice of by <hi>Phil. H.</hi> yea, his very <hi>poſſeſſion</hi> in <hi>fact,</hi> was never <hi>undiſtur<g ref="char:EOLhyphen"/>bed</hi> for any conſiderable time together.</p>
+                     <p>The Doctor informed thee <hi>better;</hi> that it was the <hi>ſence</hi> of the <hi>whole Kingdom that the Pope's Power and Jurisdiction here, was uſurped and il<g ref="char:EOLhyphen"/>legal: Contrary to God's Laws, the Laws and Statutes of this Realm; and in derogation of the Imperial Crown thereof: and that it was timorouſly and ignorantly ſubmitted unto before Hen.</hi> 8. <hi>vid.</hi> 28. <hi>H.</hi> 8. <hi>c.</hi> 16.</p>
+                     <p n="2">2. Thou ſaiſt boldly and <hi>ignorantly,</hi> that <hi>H.</hi> 8. <hi>made Himſelf Head of the Church by Parliament:</hi> that's another <hi>Popiſh</hi> opinion (the <hi>Law</hi> is open <hi>Phil.)</hi> and <hi>Argument</hi> too, depending on the <hi>former:</hi> for both the <hi>Law,</hi> and my Lord <hi>Coke</hi> affirm, that the <hi>Statutes</hi> in that behalf, were only <hi>declarative</hi> of the Ancient <hi>Fundamental</hi> Rights of the <hi>Imperial</hi> Crown of <hi>England;</hi> which alone can Juſtifie the <hi>King</hi>'s Title of the <hi>Head</hi> of the Church.</p>
+                     <p n="3">3. Thou argueſt ſubtilly: that before <hi>H.</hi> 8. <hi>Appeals were frequently made to the Pope:</hi> and that then our <hi>Courts</hi> were <hi>Rome's inferiour Courts:</hi> What then? why then upon the <hi>Popes</hi> ceaſing to be <hi>Head,</hi> the Courts were <hi>diſſolved: i. e.</hi> Juſt as our inferiour Courts were diſſolved upon the diſſolution of the <hi>High Commiſſion:</hi> Thou ought'ſt to know, that our <hi>Laws</hi> never allowed or required <hi>Appeals</hi> to <hi>Rome:</hi> and that our <hi>Courts</hi> continued in their proper <hi>Legal</hi> being, under the Royal, as well as and better than, under the <hi>Popiſh</hi> head.</p>
+                     <p n="4">4. At laſt thou queſtioneſt, whether ever a <hi>Statute was made, from the Conqueſt,</hi> or <hi>rather from Hen.</hi> 3. to <hi>Hen.</hi> 8. but by the <hi>conſent</hi> of the <hi>Popiſh</hi> Clergy: <hi>i. e.</hi> the <hi>conſent</hi> of the <hi>Pope</hi> their <hi>Head?</hi>
+                     </p>
+                     <p>Art ſtark mad <hi>Phil?</hi> were all our <hi>Laws Antichriſtian,</hi> before <hi>Hen.</hi> 8.? was no <hi>Law</hi> made by the Nation or <hi>Realm</hi> as <hi>ſuch,</hi> but only as <hi>Popiſh?</hi>
+                        <pb n="15" facs="tcp:95404:9"/> Are all our Ancient <hi>Statutes,</hi> the <hi>Popes Laws?</hi> Did the <hi>Pope</hi> conſent to all the <hi>proviſions</hi> and <hi>premunire's</hi> in the <hi>Laws</hi> made directly <hi>againſt him<g ref="char:EOLhyphen"/>ſelf?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>If my <hi>Arguments</hi> fail, take ſome <hi>Stories;</hi> and my free <hi>Conceſſi<g ref="char:EOLhyphen"/>ons:</hi> and then I hope thou wilt be pleaſed.</p>
+                     <p>1. My Stories prove there was <hi>old Tugging</hi> betwixt our <hi>Kings</hi> and the <hi>Pope,</hi> from time to time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Well ſaid, at laſt, <hi>Phil.</hi> and was not the <hi>Law</hi> on the <hi>Kings</hi> ſide? Then the <hi>Pope</hi> had neither <hi>legal,</hi> nor <hi>full,</hi> nor <hi>quiet</hi> poſſeſſion: Thy cauſe languiſheth in thy own hand; and 'tis time to yield to it: Thy <hi>Conceſſions</hi> are moſt ingenuous inſtances of a good <hi>nature</hi> or a <hi>baffled</hi> cauſe. Speak out man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>I grant <hi>that the Laws of the Popiſh party were contrary to the ſence of King and Parliament:</hi> Well ſaid in part <hi>Phil.</hi> therefore the <hi>King</hi> and <note place="margin">
+                           <hi>Pag.</hi> 13<g ref="char:punc">▪</g>
+                        </note> 
+                        <hi>Parliament</hi> were not altogether <hi>Popiſh:</hi> But prethee, what <hi>Laws</hi> could concern us, contrary to the <hi>ſence</hi> of King and Parliament? who made thoſe Laws for us in <hi>England?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>But the matter is not clear yet. Speak out man.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>'Tis <hi>undoubtedly true, that the Crown of this Realm is and has been before</hi> Hen. 8. <hi>Imperial: that is,</hi> de jure, <hi>not</hi> de facto: <hi>thanks to the wicked</hi> Uſurper, and <hi>his Legats—</hi>it <hi>ought not to have been done—</hi>it <hi>was commonly</hi> de facto <hi>done before</hi> Hen. 8.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>This is ſomething more, but not all: Thou doſt imply, in<g ref="char:EOLhyphen"/>deed, by <hi>[commonly]</hi> that it was not <hi>[always]</hi> ſo done: And if the <hi>Pope</hi> before <hi>Hen.</hi> 8. was a <hi>
+                           <g ref="char:V">Ʋ</g>ſurper,</hi> he had not <hi>right</hi> here: and the <hi>Jus,</hi> the Law, was againſt him: For, if he had had the <hi>Law</hi> on his ſide, how had he been a <hi>
+                           <g ref="char:V">Ʋ</g>ſurper?</hi> Speak a little plainer <hi>Phil.</hi> and all's well, ſo far.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>I do ingenuouſly confeſs <hi>our Ancient Eccleſiaſtical Government and Laws depended upon the Crown,</hi> and not upon the <hi>Pope,</hi> by the <hi>Laws</hi> 
+                        <note place="margin">
+                           <hi>Pag.</hi> 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </note> of <hi>England,</hi> and in the <hi>Judgment of all the States of the Kingdom,</hi> before <hi>Hen.</hi> 8. and ſo did alſo the <hi>Execution</hi> of <hi>thoſe Laws,</hi> by thoſe <hi>Governors</hi> in the ſame <hi>publick Judgment:</hi> Theſe are the Doctors words, and<hi>—all this is true:</hi> and the very <hi>Naked Truth in other words</hi> varied: which ſaith, That all Eccleſiaſtical Juriſdiction till <hi>Hen.</hi> 8. <hi>was</hi> derived from the <hi>Pope:</hi> but my meaning was, that it <hi>was not</hi> derived from the <hi>Pope,</hi> before <hi>Hen.</hi> 8. thus, thou ſeeſt I have no mind to quarrel.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>'Tis well enough: but why didſt not ſay ſo much <hi>at firſt?</hi> or excuſe thy obſcurity and <hi>diſtinguiſh</hi> ſooner? Yea, why didſt contend for ſo <hi>many pages,</hi> againſt that which thou art compell'd to <hi>yield</hi> at laſt? Art thou obſtinate, that thou muſt be <hi>preſs'd,</hi> before thou wilt <hi>confeſs?</hi>
+                        <pb n="16" facs="tcp:95404:10"/> or hadſt an Itch upon thee to vent thy <hi>stories,</hi> as if the world had no<g ref="char:EOLhyphen"/>thing to do but to hearken to thy impertinencies? If <hi>storying</hi> were <hi>ar<g ref="char:EOLhyphen"/>guing;</hi> thou art a brave fellow, indeed; but this way, it ſeems, thou art not formidable: The Doctor ſet thee up for a <hi>Shrovetide-Cock</hi> (as thy phraſe is) and thou haſt cut thy own <hi>Comb.</hi>
+                     </p>
+                     <p>So much for the <hi>firſt</hi> Propoſition.</p>
+                  </sp>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX. The Doctor's <hi>Second</hi> PROPOSITION.</head>
+               <argument>
+                  <p>Hen. 8. <hi>did not make void the Eccleſiaſtical Juriſdiction: Neither was it void before it was reſtor'd by</hi> 1 Edw. 6. 2.</p>
+               </argument>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I Hope I quit my ſelf better here.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Much at one: Firſt, thou oppoſeſt <hi>stoutly,</hi> by way of <hi>ex<g ref="char:EOLhyphen"/>ception:</hi> and then thou comeſt off as <hi>mildly</hi> by way of <hi>Conceſſion.</hi>
+                  </p>
+                  <p n="1">1. By way of <hi>exception,</hi> thou ſay'ſt many things to no purpoſe.</p>
+                  <p n="1">1. Thou repeateſt thy <hi>illegal error;</hi> that <hi>Hen.</hi> 8. was <hi>(made)</hi> when he was only <hi>declared</hi> to be <hi>Head</hi> of the Church by Act of <hi>Parliament:</hi> but had it been both a <hi>truth</hi> and <hi>Law,</hi> what had that done to <hi>diſſolve</hi> the Juriſdiction?</p>
+                  <p n="2">2. Thou reciteſt an <hi>impertinent</hi> Aſſertion, <hi>viz. That the King and Parliament adviſed about new Church-Laws:</hi> muſt we have a <hi>new Go<g ref="char:EOLhyphen"/>vernment</hi> every time we have <hi>new Laws?</hi>
+                  </p>
+                  <p n="3">3. Thou telleſt, according to thy wont, ſome <hi>old stories</hi> about <hi>Abby-Lands,</hi> as much to the buſineſs.</p>
+                  <p n="4">4. Thou laugh'ſt at a reſemblance which the Doctor brought from a <hi>Mannor,</hi> where, though the <hi>Lord</hi> be changed, the <hi>Cuſtoms, Officers,</hi> and <hi>Courts</hi> may not be changed: Here thou nameſt ſome <hi>particular</hi> Cu<g ref="char:EOLhyphen"/>ſtoms, that were <hi>actually</hi> changed by <hi>Law</hi> in <hi>Hen.</hi> 8's. time; never conſidering, how thou undoeſt thy ſelf: For the change of thoſe <hi>parti<g ref="char:EOLhyphen"/>cular</hi> Cuſtoms mentioned, are a clear <hi>confirmation</hi> of thoſe <hi>Cuſtoms,</hi> much more, the <hi>Courts,</hi> and <hi>Officers,</hi> which are left <hi>unaltered.</hi>
+                  </p>
+                  <p n="5">5. Thou giveſt us the old <hi>Crambe,</hi> that the <hi>Popiſh Convocation</hi> of <hi>Q. M.</hi> thought otherwiſe, and that thou may'ſt think as the <hi>Papiſts</hi> do.</p>
+                  <p n="2">
+                     <pb n="17" facs="tcp:95404:10"/> 2. <hi>Phil.</hi> I ſee thou wilt not be convinc'd by <hi>Reaſon:</hi> nothing will pleaſe except I <hi>yield</hi> the cauſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Now thou art <hi>kind</hi> and juſt too: what ſhould a man do, when he can fight no longer but <hi>cry quarter?</hi> But ſpeak out man: for I love to hear thy <hi>Conceſſions</hi> plain and full.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>
+                     <hi>No body denies</hi> (as if <hi>Phil.</hi> had never done ſo) but K. <hi>Hen.</hi> 8. did <hi>enable the Kings Courts Spiritual</hi> and <hi>Temporal—</hi>but that <hi>Statute</hi> 24 <hi>Hen.</hi> 8. 12. <hi>limits the cogniſance of matters cognoſcible in the Spiritual Courts, to theſe three ſorts,</hi> (reckon well, <hi>Phil.)</hi> cauſes <hi>Teſtamentary, Matrimonial, Tithes and Oblations and Obventions.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>This is pretty well; for 1. Thou here <hi>granteſt</hi> what thou hadſt denied, that Spiritual <hi>Courts</hi> were allow'd by <hi>Law</hi> after <hi>Hen.</hi> 8. had renounced the <hi>Popes Supremacy.</hi> 2. Some matters (of moment) were <hi>legally cognizable</hi> in thoſe Courts. 3. I find no reaſon to truſt thee, <hi>Phil.</hi> for I find no words in that <hi>Statute, limiting</hi> the Eccleſiaſtical Ju<g ref="char:EOLhyphen"/>riſdiction to <hi>thoſe three</hi> cauſes.</p>
+                  <p>Upon the whole, I conclude, that <hi>Phil.</hi> is a ſingular diſputant: Some of his <hi>friends</hi> are excellent, indeed, at confuting an Adverſary by <hi>de<g ref="char:EOLhyphen"/>nying</hi> the <hi>Concluſion;</hi> but <hi>Phil.</hi> by <hi>granting</hi> it.</p>
+               </sp>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X. Of the <hi>Three other</hi> PROPOSITIONS.</head>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>IT hath appeared, that the <hi>Popes headſhip</hi> was but a <hi>Lawleſs In<g ref="char:EOLhyphen"/>novation,</hi> a lawleſs and <hi>needleſs uſurpation</hi> upon the Crown, and a <hi>ſuperinduction</hi> to the <hi>confirmation</hi> of our <hi>Biſhops,</hi> &amp;c. and their <hi>power</hi> of Juriſdiction, that did <hi>really</hi> operate <hi>nothing</hi> upon their <hi>effica<g ref="char:EOLhyphen"/>cy</hi> and <hi>legality;</hi> and that they ſtood <hi>firm</hi> enough, as having their power from the <hi>Crown</hi> and our own <hi>Laws,</hi> without any <hi>real</hi> dependance on the <hi>Pope</hi> before <hi>Hen.</hi> 8. which was the clear ſence of our <hi>Laws</hi> long before <hi>Hen.</hi> 8. and of the <hi>whole Kingdom</hi> in his time, and ſince; as my Lord <hi>Coke</hi> in <hi>Cawdries</hi> Caſe, and Sir <hi>John Davies</hi> in <hi>Lalors</hi> Caſe, have ſo fully proved, that thou durſt not look them in the face, though ſo often by the Doctor urged to it.</p>
+                  <p>It hath alſo appeared, that thus the <hi>Biſhops,</hi> &amp;c. and their Juriſdicti<g ref="char:EOLhyphen"/>ons were <hi>continued</hi> and confirmed by <hi>Hen.</hi> 8. and the Doctors <hi>two firſt</hi> Propoſitions are yielded by thee, under thy <hi>own hand:</hi> and thou haſt
+<pb n="18" facs="tcp:95404:11"/> quit thy ſelf bravely <hi>Phil.</hi> in firſt denying them, and long conteſting them; and at laſt honeſtly <hi>yielding</hi> and granting both, with a <hi>boon-grace.</hi>
+                  </p>
+                  <p>But <hi>Phil.</hi> where ſhall we find the Doctor's <hi>three other</hi> Propoſitions, that <hi>more nearly</hi> concern'd thee? Thou ſhould'ſt have had courage to ſet them before thee, as <hi>diſtinctly</hi> as thou didſt the former, though thou hadſt treated them as <hi>confuſedly:</hi> But methinks, thou art more <hi>afraid</hi> of them.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I was in haſte; and I <hi>had more important affairs in hand than to</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. ult.</note> 
+                     <hi>ſpend much time with ſuch a ſcribling D. D.</hi> my Book is worth the <hi>read<g ref="char:EOLhyphen"/>ing,</hi> for my uſeful <hi>Stories</hi> and <hi>Poetry:</hi> Thou wilt find upon a diligent ſearch, that I have ſaid as much as I had a <hi>mind</hi> to, to <hi>each</hi> of thoſe Pro<g ref="char:EOLhyphen"/>poſitions; though I am ſenſible enough 'tis ſomewhat <hi>looſely.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>For once <hi>Phil.</hi> I am content to rake among thy <hi>Rubbiſh,</hi> though no man elſe would endure the <hi>ſcent:</hi> Indeed I find ſomething or <hi>no<g ref="char:EOLhyphen"/>thing</hi> about the <hi>third</hi> Propoſition; and by the <hi>by</hi> a lap and away (as <hi>Canis ad Nilum)</hi> in <hi>pag.</hi> 16. though <hi>here</hi> I expected thy whole <hi>ſtrength:</hi> Give me leave to ſet it down before thee, and ſee how thou <hi>lookeſt</hi> up<g ref="char:EOLhyphen"/>on it.</p>
+               </sp>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. The Doctors <hi>Third</hi> PROPOSITION.</head>
+               <argument>
+                  <p>
+                     <hi>Eccleſiaſtical Juriſdiction is lawfully exerciſed, without the King's Name or Stile in Proceſſes,</hi> &amp;c. <hi>notwithſtanding the</hi> 1 Edw. 6. 2.</p>
+               </argument>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>THe Doctor thought himſelf concerned to prove this <hi>ſubſtanti<g ref="char:EOLhyphen"/>ally,</hi> by giving good <hi>evidence,</hi> that the 1 <hi>Edw.</hi> 6. 2. was <hi>re<g ref="char:EOLhyphen"/>pealed:</hi> He argued it largely, from <hi>Authority, common practice,</hi> and <hi>Law;</hi> ſhewing plain <hi>Statutes,</hi> now in <hi>force,</hi> to maintain his Point. Here, <hi>Phil.</hi> the world expected thou ſhould'ſt ſpeak to purpoſe, or be ſilent for ever: but how and where ſhall we find this expectation or the Doctor anſwered?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>
+                     <hi>I have not willingly omitted to give anſwer to all and every the idle cavils and exceptions in his Book,</hi> pag. 26. My anſwer is, 1. <hi>I deny the Authority of the Twelve Judges,</hi> that declared that 1 <hi>Edw.</hi> 6. 2. is <hi>re<g ref="char:EOLhyphen"/>pealed,</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 16.</note>
+                     <pb n="19" facs="tcp:95404:11"/> (take in the <hi>King</hi> and <hi>Council</hi> too) <hi>my own</hi> is better: eſpecially having a <hi>Vote</hi> of the <hi>Houſe of Commons</hi> in 1640. on my ſide.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Now <hi>Phil.</hi> I am afraid of thee and of thy cauſe: nay thou art afraid thy ſelf: what, flie to a Houſe of Commons in 40? and to a <hi>vote</hi> of that Houſe? and to a Vote of that Houſe that ſpeaks not <hi>one word</hi> to the point in hand? the very words of it, as ſet down by thy ſelf, <hi>di<g ref="char:EOLhyphen"/>ſprove</hi> thee to thy face: thou know'ſt, that <hi>Vote</hi> hath not a tittle in it, touching this <hi>Statute</hi> of 1 <hi>Ed.</hi> 6. 2. which is the thing in <hi>debate:</hi> nor yet, concerning <hi>Eccleſiaſtical Juriſdiction;</hi> and is only, concerning the <hi>power of the Convocation to make Canons,</hi> without a <hi>Parliament.</hi>
+                  </p>
+                  <p>But thou cloſeſt the Point with a ſweet Note: <hi>Indeed none are ſo fit to anſwer the Arch-deacon, as</hi> [ſuch] <hi>a Parliament.</hi>
+                  </p>
+                  <p>Reflect a little <hi>Phil.</hi> and ſee how this point ſtands, after all thy ſpite is ſpent upon it: thou excepts againſt the <hi>Authority</hi> of thoſe Twelve <hi>Judges;</hi> but how doſt thou anſwer the <hi>reaſons</hi> of their <hi>Judgment</hi> which they <hi>honeſtly</hi> ſet down; as the Doctor ſhew'd out of my Lord <hi>Coke,</hi> upon <hi>Ja.</hi> 4.? not a word of that: what ſaiſt thou to the <hi>conſtant practice,</hi> both of the <hi>Crown,</hi> and all the <hi>King's Courts, Civil</hi> and <hi>Spiritual,</hi> con<g ref="char:EOLhyphen"/>trary to that <hi>Statute</hi> ever ſince, on which the Doctor enlarged? <hi>Mum.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>
+                     <hi>I am quite tired with his impertinencies,</hi> p. 26. <hi>he is ſuch a prater!</hi> p. 16. I leave him to the <hi>Parliament,</hi> and the <hi>point too,</hi> p. 19.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Tired and <hi>ſore:</hi> and art, I believe, <hi>heartily weary of the com<g ref="char:EOLhyphen"/>pany of this ſame</hi> Totnes <hi>Arch-deacon;</hi> as thou haſt cauſe to complain, <hi>p.</hi> 35. but thou muſt have patience a little longer, while we make <hi>Hue and Cry</hi> after the Doctor's <hi>fourth propoſition,</hi> leſt if it ſhould be loſt, <note place="margin">
+                        <hi>Pag.</hi> 21.</note> he <hi>ſue thee for damages.</hi>
+                  </p>
+                  <p>I have ſearch'd, <hi>Phil.</hi> as for a <hi>Needle in a bottle of Hay:</hi> and at length I <hi>caught</hi> it by the <hi>skirts,</hi> in p. 26. and afterwards, as caſt out into the <note place="margin">
+                        <hi>Pag.</hi> 14.</note> 
+                     <hi>abſtract of the premiſſes.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="20" facs="tcp:95404:12"/>
+               <head>CHAP. XII. The Doctor's <hi>Fourth</hi> PROPOSITION.</head>
+               <argument>
+                  <p>
+                     <hi>The Act of</hi> 1 Eliz. 1. <hi>eſtabliſhing the High Commiſſion Court was not the foundation of ordinary Eccleſiaſtical Juriſdiction.</hi>
+                  </p>
+               </argument>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>THou canſt not but remember how fully and largely, the Do<g ref="char:EOLhyphen"/>ctor both diſproved and <hi>expoſed</hi> thy <hi>ſingular Notion</hi> of this point; and now, with thy wonted <hi>Front,</hi> taking little or no notice of the Author's diſcourſe, thou ſaiſt the ſame over again.</p>
+                  <p>
+                     <hi>That Branch which gave the Queen power to ſettle the High Commiſſion, being repealed</hi> by 13 Car. 1. 12. <hi>For my part, 'tis beyond my apprehen<g ref="char:EOLhyphen"/>ſion to find out, where the Authority of Eccleſiaſtical Courts can or does conſiſt.</hi>
+                  </p>
+                  <p>For <hi>thy part!</hi> it's well thou ſpeakſt for thy ſelf: who is the <hi>dull fool</hi> now? what, not <hi>apprehend,</hi> what every body elſe apprehends? is a ſin<g ref="char:EOLhyphen"/>gular non-ſenſical <hi>notion,</hi> and <hi>barrenneſs</hi> of Apprehenſion, ſufficient <hi>ſtrength</hi> or <hi>warrant</hi> to batter <hi>Government?</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I cannot <hi>beat it into my head, who</hi> gave them that <hi>Authority</hi> they pretend to. Not the <hi>Pope,</hi> as of old, not the <hi>Common,</hi> I am ſure: nor can poſſibly the <hi>Canon-Law</hi> or <hi>Statute-Law.</hi> 
+                     <note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g.</hi> 24.</note>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Well fare thee <hi>Phil,</hi> what need of <hi>reaſon?</hi> thou haſt done all in a <hi>word:</hi> and had not the Doctor demonſtrated, 1. That the <hi>Pope</hi> did never give us that <hi>Authority.</hi> 2. That Eccleſiaſtical Juriſdiction is eſtabliſh'd by <hi>Common-Law.</hi> 3. By an infinite number of <hi>Statutes. 4thly,</hi> and <hi>laſtly,</hi> By that very <hi>Statute</hi> that takes off the power of the <hi>High-Commiſſion,</hi> we might have taken thy word: but thou haſt open<g ref="char:EOLhyphen"/>ed a <hi>wide door;</hi> and ſet us in a large Field: wherein we ſhall follow thee with patience, upon the Heads mentioned; and haſten to the end of our pleaſant Journey.</p>
+               </sp>
+               <div n="1" type="section">
+                  <head>SECT. I. <hi>Our Eccleſiaſtical</hi> Courts <hi>not impowred</hi> originally <hi>from the</hi> Pope.</head>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>THat the <hi>Pope</hi> gave them their Authority of old, is evident: for the <hi>Arch-deacon rightly notes,</hi> that, <hi>till</hi> William <hi>the Con<g ref="char:EOLhyphen"/>queror,</hi>
+                        <pb n="21" facs="tcp:95404:12"/> 
+                        <hi>there were no Biſhops Courts in</hi> England, <hi>but the Hundred Courts:</hi> But the <hi>Pope</hi> made <hi>William the Conqueror ſet up ſuch Eccleſiaſtical Courts as were at</hi> Rome; <hi>to proceed according to the Canons of the Pope:</hi> and <hi>was there</hi> ever any <hi>Statute made from</hi> William <hi>the Conqueror, or rather</hi> Henry 3. to <hi>Hen.</hi> 8. but <hi>by the conſent of the Popiſh Clergy,</hi> that is to ſay, <hi>the conſent of the Pope their Head?</hi> p. 6.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Thou art a bold undertaker <hi>Phil.</hi> but is't poſſible thou ſhouldſt be ignorant, that the <hi>Conqueror</hi> was not ſo much a <hi>ſlave</hi> to the <hi>Pope?</hi> that he confirm'd and publiſhed the <hi>Laws</hi> of his Predeceſſor, that he maintained the Eccleſiaſtical <hi>inveſtiture</hi> in the <hi>Crown?</hi> (all which thou may'ſt find in <hi>Selden</hi>'s Notes upon <hi>Eadm.</hi> as alſo the <hi>Proclamation</hi> mentioned, for the <hi>diſtinction</hi> of <hi>Courts,</hi> ſeeing thou art at a loſs about it.)</p>
+                     <p>Yea, doth not that <hi>Law</hi> of the <hi>Conqueror</hi> ſuppoſe the <hi>prae-exiſtence</hi> of our Eccleſiaſtical Juriſdiction, tho' not in a <hi>diſtinct</hi> Court before the <hi>Conqueſt?</hi> Yea, canſt imagine, that when Spiritual Cauſes were tried in <hi>Hundret,</hi> and at the <hi>Civil</hi> Courts of Judgment, that <hi>Lay<g ref="char:EOLhyphen"/>men</hi> had any thing to do with them, more than to be <hi>preſent?</hi> quaere.</p>
+                     <p>However, did not the Doctor rightly obſerve, that that very <hi>Law</hi> that <hi>divided</hi> the Courts, was made by the <hi>King's own power,</hi> not the <hi>Pope</hi>'s? and with the <hi>Council</hi> of his own <hi>Realm</hi> alone?</p>
+                     <p>Tho' <hi>William</hi> the <hi>Conqueror</hi> was a <hi>Papiſt,</hi> doth it follow that he did nothing, and made <hi>no Laws,</hi> but <hi>quatenus</hi> a <hi>Papiſt,</hi> and not as <hi>King</hi> of <hi>England?</hi> Do not the <hi>Statutes</hi> of <hi>Hen.</hi> 8. and my Lord <hi>Coke</hi> plainly prove, that <hi>Canons</hi> and <hi>Foreign Laws</hi> become the <hi>King's Laws,</hi> when confirmed by <hi>Parliament,</hi> or made ſo by <hi>reception</hi> voluntary, conſent or <hi>cuſtom?</hi>
+                     </p>
+                     <p>Muſt all our <hi>Laws</hi> before <hi>Hen.</hi> 8. and after the <hi>Conqueſt</hi> be thus damn'd for <hi>Popiſh Laws,</hi> and the <hi>Pope's Laws,</hi> and thoſe too that were directly made in <hi>proviſion</hi> againſt the <hi>Pope</hi> himſelf and his Uſurpations? as before.</p>
+                     <p>Was ever ſuch ſtuff vented before? it's well thou haſt a <hi>Salvo [rather from</hi> Hen. 3.] tho' that alſo gives Sentence againſt thee.</p>
+                  </sp>
+               </div>
+               <div n="2" type="section">
+                  <pb n="22" facs="tcp:95404:13"/>
+                  <head>SECT. II. <hi>Eccleſiaſtical Courts by</hi> Common-Law.</head>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>BUT for <hi>him</hi> to ſay, <hi>they keep Courts by Common-Law</hi> is <hi>the idleſt of all dreams:</hi> the <hi>Common-Law</hi> of <hi>England</hi> is ancienter than our <hi>Chriſtianity.</hi> But <hi>Biſhops,</hi> much leſs <hi>Arch-Biſhops</hi> and <hi>Arch-Deacons,</hi> as <hi>now</hi> in <hi>England,</hi> are of <hi>later date;</hi> therefore <hi>their Courts can have no foundation in Common-Law.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Thou art a <hi>Lawyer, Phil.</hi> now, with all thy Law, canſt thou deny this <hi>Propoſition,</hi> that <hi>long Ancient and general uſe is Common-Law in England?</hi> as ſaith my Lord <hi>Coke:</hi> or canſt thou deny this <hi>Aſſumption,</hi> that our Eccleſiaſtical Courts are of very <hi>ancient and general uſe</hi> in <hi>Eng<g ref="char:EOLhyphen"/>land?</hi> if not, as thou doſt not dare: what hinders this <hi>Concluſion,</hi> that we keep <hi>thoſe Courts</hi> by <hi>Common-Law?</hi>
+                     </p>
+                     <p>2. Again, <hi>Phil.</hi> If there was ſuch a thing as Eccleſiaſtical Juriſdiction in <hi>England,</hi> before the <hi>Conqueſt</hi> (as moſt certainly there was) how ſtood it <hi>then?</hi> thou granteſt, not, by <hi>Canon-Law,</hi> (it was exerciſed <hi>contrary</hi> to the <hi>Canons.)</hi> I grant, it ſtood not by <hi>Statute-Law,</hi> viz. before we had <hi>any</hi> Statutes, then it muſt ſtand before the <hi>Conqueſt,</hi> upon <hi>Com<g ref="char:EOLhyphen"/>mon-Law.</hi>
+                     </p>
+                     <p>3. And indeed ſince the <hi>Diviſion</hi> of the Courts by the <hi>Conqueror,</hi> the ſame ancient Eccleſiaſtical <hi>Authority,</hi> is <hi>continued</hi> in its exerciſe, as to its <hi>ſubſtance</hi> by <hi>Common-Law,</hi> tho', in that <hi>new mode,</hi> as diſtinguiſh'd from the <hi>Civil,</hi> and in <hi>diſtinct</hi> Courts: as matters of <hi>other</hi> nature, that have their foundation in <hi>Common-Law,</hi> tho' ſomewhat new modified by <hi>Statute,</hi> continue to be <hi>Common-Law</hi> ſtill, ſo far as they are not alter<g ref="char:EOLhyphen"/>ed, as no Man of ſence will deny.</p>
+                     <p>4. Yea the very <hi>Courts</hi> themſelves, tho' divided by the <hi>Conqueror,</hi> continuing afterwards <hi>ſo long</hi> a time in <hi>general</hi> uſe, in <hi>England,</hi> before <hi>Statute-Law,</hi> came, thereby, to be cuſtomary, and contracted the nature of <hi>Common-Law:</hi> and certainly there is no neceſſity that every particu<g ref="char:EOLhyphen"/>lar in Common-Law ſhould have its beginning before <hi>Chriſtianity</hi> in <hi>England,</hi> if it fall under the condition of ancient and general uſe: and <hi>Phil.</hi> thou knowſt that Statute that limits the time, that is required to make a <hi>cuſtom</hi> in <hi>England:</hi> and <hi>[before Chriſtianity]</hi> or <hi>[from the be<g ref="char:EOLhyphen"/>ginning]</hi> was never put into the <hi>definition</hi> of <hi>Common-Law.</hi>
+                     </p>
+                     <pb n="23" facs="tcp:95404:13"/>
+                     <p> 5. Laſtly, That they were ſo, hath thus further <hi>demonſtration;</hi> That all the <hi>Statutes,</hi> from <hi>Magna Charta,</hi> ſuppoſe the <hi>Spiritual Court's pre<g ref="char:EOLhyphen"/>exiſting, i. e.</hi> by <hi>Common Law,</hi> or ancient allowed uſage of the whole Realm: And my Lord <hi>Coke</hi> is expreſs, that <hi>Spiritual Cauſes</hi> belong to theſe Courts by <hi>Common Law.</hi>
+                     </p>
+                     <p>But to put this crotchet out of thy head for ever; I argue thus: That which was found in <hi>general</hi> uſe when <hi>Magna Charta</hi> was <hi>firſt</hi> made, and was confirm'd by <hi>Magna Charta,</hi> and is not <hi>made void</hi> by <hi>Statute,</hi> ſtands confirm'd both by <hi>Common</hi> and <hi>Statute-Law:</hi> for the <hi>great Charter</hi> is both.</p>
+                     <p>But the <hi>Spiritual Courts</hi> were found in <hi>general</hi> uſe, when <hi>Magna Char<g ref="char:EOLhyphen"/>ta</hi> was <hi>firſt</hi> made, and were <hi>confirmed</hi> among the <hi>liberties</hi> of the Church in their <hi>Juriſdiction,</hi> as my Lord <hi>Coke</hi> aſſures us by <hi>Magna Charta;</hi> and are <hi>not made void</hi> by <hi>Statute:</hi> therefore our Spiritual <hi>Courts</hi> ſtand con<g ref="char:EOLhyphen"/>firm'd, both by <hi>Common</hi> and <hi>Statute-Law,</hi> in the <hi>great Charter</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> as more at large appears in the Doctors <hi>Leges Angliae,</hi> hadſt thou had patience to underſtand it.</p>
+                     <p>
+                        <hi>Object.</hi> Thou ſay'ſt <hi>Phil.</hi> the Doctor is an <hi>old Spectacle-dreamer of idle dreams.</hi> I ſay <hi>Phil.</hi> thou art a better <hi>Seer,</hi> and <hi>ſeeſt Viſions,</hi> and Apparitions both of things <hi>that are,</hi> and things that are <hi>not:</hi> and among the reſt, thou ſeeſt the <hi>Charter</hi> of <hi>England,</hi> with its pendent, <hi>Eccleſia<g ref="char:EOLhyphen"/>ſtical Juriſdiction,</hi> torn all in pieces, by a thing of <hi>nothing,</hi> and thus it works, <hi>pag.</hi> 26.</p>
+                     <p>
+                        <hi>Many things,</hi> ſay'ſt thou, <hi>that were</hi> before <hi>the rights of Holy Church,</hi> namely, <hi>Peter-pence, Firſt-fruits</hi> to the <hi>Pope,</hi> &amp;c. are now taken away by <hi>Statute,</hi> and are not continued by <hi>Magna Charta.</hi> Even juſt ſo, the Juriſdiction of our <hi>Courts</hi> which was once the <hi>right</hi> of the Church, and <hi>confirm'd</hi> by <hi>Magna Charta,</hi> and <hi>is not</hi> taken away but <hi>confirmed</hi> by a multitude of <hi>Statutes</hi> ſince, is not continued by <hi>Magna Charta.</hi>
+                     </p>
+                     <p>4. Thus (thou art a wonderful <hi>Conjurer)</hi> the <hi>Apparition</hi> is gone whe<g ref="char:EOLhyphen"/>ther thou wilt or not: How our <hi>Courts</hi> are confirm'd in the <hi>Statutes,</hi> the Doctor ſhew'd thee abundantly in his Book: but I find thou haſt no <hi>ſtomach</hi> to encounter any longer with <hi>Leges Angliae,</hi> or to ſmell to the <hi>Statutes.</hi>
+                     </p>
+                  </sp>
+               </div>
+               <div n="3" type="section">
+                  <pb n="24" facs="tcp:95404:14"/>
+                  <head>SECT. III. <hi>More</hi> Cauſes <hi>to be tried in our</hi> Courts <hi>than Mr.</hi> Phil. <hi>allows.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>
+                        <hi>GRant they have Authority, 'tis but in three or four things,</hi> and <hi>ſuch,</hi> perhaps, <hi>they have cogniſance of at this day.</hi> 
+                        <note place="margin">
+                           <hi>Pag.</hi> 34.</note>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Honeſt <hi>Phil.</hi> is at <hi>granting</hi> again, when he can deny no long<g ref="char:EOLhyphen"/>er.</p>
+                     <p>Our <hi>Authority</hi> reacht but to <hi>three</hi> ſorts of Cauſes in <hi>pag.</hi> 18. To <hi>three</hi> or <hi>four pag.</hi> 26. or, at moſt, but thoſe <hi>ten</hi> things mentioned in 5 <hi>Eliz.</hi> 23. <hi>de Excom. Capiend.</hi> thou goeſt on apace, <hi>Phil.</hi> do but add thoſe <hi>fif<g ref="char:EOLhyphen"/>teen</hi> 
+                        <note place="margin">
+                           <hi>Pag.</hi> 34.</note> 
+                        <hi>more</hi> which the Doctor enumerates out of <hi>Cawdries</hi> Caſe, and deny thy ſelf ſatisfaction if thou canſt.</p>
+                  </sp>
+               </div>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. <hi>Of</hi> Canons; <hi>their</hi> force, <hi>and</hi> power <hi>of making them.</hi>
+               </head>
+               <div n="1" type="section">
+                  <head>SECT. I. <hi>Of the Old Canons.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>THough they may have Authority <hi>to keep Courts,</hi> and to <hi>try</hi> ſuch <hi>Cauſes; I cannot ſee how they can</hi> uſe <hi>that Authority,</hi> or <hi>try ſuch Cauſes, ſeeing they have no Canons to act by.</hi>
+                     </p>
+                     <p>1. Firſt, for <hi>the old Canons;</hi> they <hi>were all made void</hi> by <hi>Hen.</hi> 8. and to <hi>judge and determine, was impoſſible, becauſe they had no Canons, De<g ref="char:EOLhyphen"/>crees, nor Laws Eccleſiaſtical, to judge and determine of them,</hi> pag. 20. 'Tis evident all the <hi>old Canons</hi> were <hi>repealed</hi> in the Judgment of the <hi>Houſe of Commons</hi> in the 37 of <hi>Hen.</hi> 8. <hi>pag.</hi> 20.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>
+                        <hi>Stout</hi> ſtill, <hi>Phil.</hi> firſt thou <hi>deniedſt</hi> their power; that would not do: then thou would'ſt <hi>limit</hi> it in its Cauſes; that failed thee: and now thou would'ſt <hi>incapacitate</hi> them to act in thoſe, for want of <hi>Ca<g ref="char:EOLhyphen"/>nons:</hi> and here keep thy ground or thou art loſt for ever.</p>
+                     <pb n="25" facs="tcp:95404:14"/>
+                     <p> But this muſt be well examined; for it ſprings from depth of <hi>skill,</hi> or height of <hi>confidence,</hi> or extenſive breadth of <hi>malice</hi> and <hi>ignorance:</hi> none ſo bold as blind <hi>Bayard.</hi>
+                     </p>
+                     <p>How <hi>Phil.</hi> ignorant of that plain Rule in the Common Law? <hi>That the Law doth appoint every thing to be done by thoſe unto whoſe office it pro<g ref="char:EOLhyphen"/>perly appertaineth.</hi>
+                     </p>
+                     <p>Doſt thou not know, that the Common Law requires and <hi>impowers</hi> the Spiritual Courts, to give <hi>remedy in Caſes belonging to them?</hi> Coke Inſt. <hi>pag.</hi> 1.</p>
+                     <p>Doſt thou not know, that the Kings <hi>Prerogative</hi> is a <hi>principal part of the Common Law,</hi> which alſo flouriſheth in the <hi>Spiritual,</hi> as well as the Temporal Courts? <hi>Coke, Cawdr.</hi> Caſe: and that <hi>Eccleſiaſtical</hi> Juriſdi<g ref="char:EOLhyphen"/>ction is part of the Royal <hi>Supremacy,</hi> to which thou art <hi>ſworn;</hi> and that <hi>he that denieth it, denieth the King to be a compleat Monarch and Head of the whole intire body of the Realm;</hi> according to many <hi>Statutes in all Ages</hi> as <hi>well as the Common Law?</hi> ibid.</p>
+                     <p>And dareſt thou yet affirm, that the <hi>Kings Supremacy</hi> is <hi>crampt,</hi> and can do nothing for the <hi>relief</hi> of his Subjects in any <hi>Spiritual</hi> Cauſe, which cannot be tried in the <hi>Civil</hi> Courts, becauſe there are no <hi>Rules</hi> or Canons for ſuch <hi>Courts</hi> of the <hi>King</hi> to <hi>proceed</hi> and determine by.</p>
+                     <p>It is ſtrange thou didſt never heed that plain <hi>Statute</hi> of <hi>Hen.</hi> 8. it ſtrikes thy notion dead: It aſſures us that the <hi>body Spiritual having pow<g ref="char:EOLhyphen"/>er, when any Cauſe</hi> divine <hi>happens to come in queſtion,</hi> the <hi>Engliſh Church, called the Spiritualty, hath been reputed, and alſo found of that</hi> ſort, for <hi>knowledge,</hi> &amp;c. <hi>(without any exterior perſon)</hi> to <hi>declare and determine all ſuch doubts, and to adminiſter all ſuch offices as appertain to them.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>When the <hi>Popes Supremacy was taken away, vaniſh alſo did the Canons, and Epiſcopal Laws,</hi> pag. 14.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>prethee <hi>Phil.</hi> how did they <hi>vaniſh?</hi> of <hi>themſelves,</hi> like thy airy fancies; or as appendants, with the removal of the <hi>Popes Supremacy?</hi> If ſo, tell me, why did not all our other Laws vaniſh too, ſeeing the <hi>Pope</hi> had ſo great a hand in them alſo, as thou ſaidſt before? But eſpe<g ref="char:EOLhyphen"/>cially, why ſhould there be a particular ſolemn Law made on <hi>purpoſe,</hi> for the rejection of any of the <hi>old Canons?</hi> And why were <hi>ſuch</hi> Canons (though <hi>old</hi> ones) that <hi>were not found contrariant to the Kings Preroga<g ref="char:EOLhyphen"/>tive and the Laws,</hi> why were <hi>ſuch Canons kept in force</hi> by the <hi>Statute</hi> of <hi>Hen.</hi> 8. as thou confeſſeſt? <hi>pag.</hi> 14.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>The <hi>Houſe of Commons</hi> in 37 of <hi>Hen.</hi> 8. gave their Judgment, that <hi>all</hi> the <hi>old Canons were abrogated.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>What ſo ſoon forget thy ſelf? Certainly thou hadſt ſaid other<g ref="char:EOLhyphen"/>wiſe <hi>[ſuch as were not contrariant,</hi> &amp;c. <hi>to remain in force]</hi> pag. 14.</p>
+                     <pb n="26" facs="tcp:95404:15"/>
+                     <p> But thou art ingenuous <hi>Phil.</hi> the Doctor helpt thee to the <hi>Objection,</hi> and gave thee its <hi>anſwer</hi> with it: and now thou uſeſt the <hi>objection</hi> againſt him, without the leaſt notice of the <hi>anſwer,</hi> or thanks to the <hi>ob<g ref="char:EOLhyphen"/>ſervator.</hi> He gave thee <hi>reaſon,</hi> why the words of the <hi>latter</hi> Statute were to be <hi>reſtrained</hi> to <hi>ſuch Canons,</hi> as being contrary to the <hi>King</hi> or <hi>Law,</hi> were abrogated by the <hi>former</hi> Statute: and not to be extended to <hi>ſuch</hi> as were <hi>not</hi> ſo, and therefore were <hi>not abrogated.</hi>
+                     </p>
+                     <p>But what a noiſe doſt thou keep: are not the <hi>Acts of Parliament,</hi> the <hi>Canons</hi> of King <hi>James,</hi> and the ancient <hi>practiſed Rules</hi> of Court agree<g ref="char:EOLhyphen"/>able to the <hi>Ancient Canon,</hi> which are alſo allowed by the <hi>Common Law, ſufficient</hi> means of <hi>proceeding</hi> in and determining all Eccleſiaſtical Cau<g ref="char:EOLhyphen"/>ſes, that are triable in our Courts? <hi>Phil.</hi> thou would'ſt bite like a <hi>Badger,</hi> but thou canſt only ſhew thy <hi>Teeth:</hi> thou hadſt better keep them within thy <hi>lips,</hi> leſt one time or other they be ſtruck out of thy <hi>Head.</hi>
+                     </p>
+                  </sp>
+               </div>
+               <div n="2" type="section">
+                  <head>SECT. II. <hi>Of King</hi> James<hi>'s Canons; and power of making new Canons, by the Statute of</hi> Hen. 8.</head>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>DOſt not perceive <hi>Phil.</hi> our task is almoſt done: we have gain<g ref="char:EOLhyphen"/>ed <hi>three</hi> great <hi>points,</hi> eaſily, out of thy <hi>hard</hi> hand, and fairly out of thy <hi>foul</hi> mouth: For thou haſt confeſs'd, though ſore againſt thy <hi>genius,</hi> 1. That our <hi>Courts</hi> have <hi>legal Authority.</hi> 2. That certain <hi>Cauſes</hi> do properly belong to them. 3. That the <hi>old Canons</hi> are kept in <hi>force</hi> by the <hi>Statute</hi> of <hi>Hen.</hi> 8. to try thoſe Cauſes by. I mean (with the <hi>Statute)</hi> ſuch of them as are not <hi>repugnant to the Kings Prerogative, and the Laws of the Land.</hi>
+                     </p>
+                     <p>Now <hi>Phil.</hi> thou hangeſt but upon one <hi>twig,</hi> and if that fail thee, thou art quite <hi>ſunk:</hi> that is the <hi>denial of the force of King</hi> James<hi>'s Canons:</hi> and the <hi>Kings power with his Convocation to make new ones.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>'Tis falſe what the Doctor <hi>would make the</hi> 25 <hi>Hen.</hi> 8. 19. <hi>ſpeak, as though by that Statute the Convocation hath power reſerved of making</hi> 
+                        <note place="margin">
+                           <hi>Pag.</hi> 19.</note> 
+                        <hi>new Canons, provided the Convocation be called by the Kings Writ, and have the Royal aſſent,</hi> &amp;c.</p>
+                     <p>
+                        <hi>If this be true, I do not know but the</hi> Lambeth-Canons <hi>(exploded and condemned by Act of Parliament) and thoſe of King</hi> James, <hi>are all Statute-Law</hi> (i. e. <hi>Law by Statute or non-ſence) for they were ſo made.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <pb n="27" facs="tcp:95404:15"/>
+                     <speaker>Tim.</speaker>
+                     <p>Good <hi>Phil.</hi> diſcover his falſhood herein, with Naked Truth: Is not ſuch power <hi>reſerved</hi> to the Convocation by the <hi>Statute,</hi> ſeeing they uſed that power before, and ſeeing it is <hi>conceded,</hi> and not taken away by that <hi>Statute?</hi> What is the meaning of <hi>reſervation</hi> elſe?</p>
+                     <p>Thy other paragraph is as <hi>modeſt</hi> as 'tis <hi>true:</hi> Are the <hi>Canons</hi> of King <hi>James</hi> confirmed by the <hi>Royal aſſent,</hi> and never queſtioned by any Act of <hi>Paraliament,</hi> of no more force than thoſe of <hi>Lambeth:</hi> Which are, as thou ſay'ſt, <hi>condemned by Act of Parliament?</hi> that is, no better than <hi>waſte-paper:</hi> take heed <hi>Phil.</hi> of a thing call'd <hi>crimen laeſae Majeſtatis.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Phil.</speaker>
+                     <p>
+                        <hi>But is not this Doctor an honeſt man? when the Statute only binds them to their good behaviour; namely, not to preſume without the Royal aſ<g ref="char:EOLhyphen"/>ſent, but does not enable them to make any new (Canons) with the Royal aſſent.</hi> Vid. Stat.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Tim.</speaker>
+                     <p>Meddle not <hi>Phil.</hi> with the Doctors <hi>honeſty,</hi> that's above thy reach: mind thy own <hi>morals</hi> and the Doctors <hi>Logick:</hi> his argument is from a <hi>legal implication</hi> upon the <hi>negative</hi> in the <hi>Statute:</hi> He grounds his argument upon a known <hi>rule</hi> in Law, <hi>Exceptio confirmat Regulam in non exceptis;</hi> the Statute was made on purpoſe to <hi>limit</hi> the power <hi>for<g ref="char:EOLhyphen"/>merly</hi> abuſed; and can any <hi>inference</hi> be plainer, than that the <hi>Statute</hi> ſuppoſeth and <hi>alloweth</hi> the <hi>power</hi> of the Convocation, ſo far as it doth not prohibit or <hi>limit</hi> them?</p>
+                     <p>'Tis evident, the <hi>Judges</hi> thought ſo, when at the <hi>Committee</hi> of the <hi>Lords,</hi> my Lord <hi>Coke</hi> tells us, they declared, <hi>that thoſe reſtraints (men<g ref="char:EOLhyphen"/>tioned by him) were grounded on the Statute, which Statute</hi> (he adds) was but an <hi>affirmance of the Common Law.</hi> Rep. 12. p. 720.</p>
+                     <p>I know <hi>Phil.</hi> if thou hadſt been <hi>Lord Chancellor</hi> (and its pity thou hadſt not) that thou would'ſt have declared more roundly; <hi>there is no need of theſe limitations:</hi> the Convocation has no power <hi>at all</hi> to make Canons, either <hi>without,</hi> or <hi>with</hi> the <hi>Kings aſſent.</hi> So would thoſe Judg<g ref="char:EOLhyphen"/>es, had they been of <hi>Phil</hi>'s mind.</p>
+                     <p>Now <hi>Phil.</hi> bethink thy ſelf, what a <hi>wild-Gooſe chaſe</hi> thou haſt run: thou art out of <hi>breath</hi> ſure, if not out of <hi>thy Wits:</hi> In this venturous courſe, thou may'ſt, at length, without more heed, <hi>out-run the Con<g ref="char:EOLhyphen"/>ſtable,</hi> or be caught by him, for thy running down the <hi>Doctor,</hi> my Lord <hi>Coke,</hi> all the <hi>Judges,</hi> the <hi>Kings Prerogative,</hi> and Acts of <hi>Parliament.</hi>
+                     </p>
+                     <p>In ſober ſadneſs <hi>Phil.</hi> what wilt thou do? thou ſeeſt thou art <hi>dead</hi> in Law; thy <hi>Fabrick</hi> is ruined, thou art loſt in the <hi>Rubbiſh,</hi> and haſt writ<g ref="char:EOLhyphen"/>ten thy own <hi>Epitaph.</hi>
+                     </p>
+                     <p>Here lies <hi>Phil.</hi> notorious for his pitiful Deſcants, his ſilly Cants, and ſhameleſs Recantations: For after all his <hi>Bravadoes</hi> and Rhodoman<g ref="char:EOLhyphen"/>tades, he hath plainly <hi>allow'd</hi> what he had <hi>condemn'd;</hi> and <hi>granted</hi>
+                        <pb n="28" facs="tcp:95404:16"/> what he <hi>denied,</hi> and with all confidence argued againſt; namely, theſe Five points:
+<list>
+                           <item>1. That our <hi>Eccleſiaſtical Juriſdiction</hi> was not really or <hi>de jure derived</hi> from the <hi>Pope</hi> before <hi>Hen.</hi> 8.</item>
+                           <item>2. That that <hi>King</hi> did not diſſolve but <hi>confirm</hi> the ſame.</item>
+                           <item>3. That our Spiritual <hi>Courts</hi> have Authority <hi>by Law,</hi> at this day.</item>
+                           <item>4. That <hi>Spiritual</hi> Cauſes do belong to, and are to be <hi>tried</hi> in them.</item>
+                           <item>5. That the <hi>old Canons</hi> (at leaſt) which are not repugnant to the Kings Prerogative or Law are ſtill in force.</item>
+                        </list>
+                     </p>
+                     <p>Yet <hi>Phil.</hi> hadſt thou gained thy Cauſe, I muſt ſay, thou hadſt loſt the credit of a <hi>man</hi> and a <hi>diſputant:</hi> Thou handleſt the <hi>matter,</hi> the <hi>Doctor,</hi> and <hi>Authority</hi> it ſelf, ſo ſcoundrelouſly, and ſo far below the Rules of all <hi>Logick</hi> and <hi>Morality, Religion</hi> and <hi>Humanity,</hi> as thou art a Juſt <hi>ſcan<g ref="char:EOLhyphen"/>dal</hi> both to thy <hi>Profeſſion</hi> and <hi>Nature.</hi>
+                     </p>
+                  </sp>
+               </div>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. <hi>Of Procurations, Synodals, Canonical Oaths, Fees,</hi> &amp;c.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>SPare a little <hi>Tim.</hi> for though I have loſt my <hi>weapons</hi> and quit the <hi>field,</hi> I have ſome <hi>stones</hi> to throw back at my Enemy.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Thus <hi>Inſects</hi> do riggle when their <hi>heads</hi> are off.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Peace <hi>Tim.</hi> I have ſeen the dying blow of a <hi>Cock</hi> of the Game, ſtrike home. I am ſure my <hi>reſerve</hi> hath a <hi>sting</hi> in it; and my <hi>Pebbles</hi> will fall like <hi>mountains</hi> upon their <hi>Courts;</hi> at leaſt, in the opinion of my <hi>Friends</hi> and their <hi>Enemies.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Myſterious Phil.</hi> ſpeak plainly, what's the project?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>To be plain then; the truth is, I had taken much pains to prove the unlawfulneſs of the <hi>Spiritual Courts:</hi> with this I began my <hi>Naked Truth;</hi> and laid it down <hi>firſt,</hi> as the <hi>foundation</hi> of my <hi>grievan<g ref="char:EOLhyphen"/>ces:</hi> but the Doctor in his <hi>Leges Angliae</hi> baffled me in that, and put me out of all hopes of doing miſchief that way. Now I declare boldly, that was not the <hi>main drift and deſign</hi> of <hi>Naked Truth.</hi> I declare and proclaim boldly and <hi>frequently</hi> (no matter for Naked Truth now) that the Doctor ſaith not <hi>one word to my main deſign, namely, in anſwer to the Vindication of the Canons Authority to keep Eccleſiaſtical Courts,</hi> &amp;c.</p>
+               </sp>
+               <sp>
+                  <pb n="29" facs="tcp:95404:16"/>
+                  <speaker>Tim.</speaker>
+                  <p>Stop <hi>Phil.</hi> has not the Doctor <hi>ONE WORD?</hi> doſt not find a <hi>whole Chapter (c.</hi> 7.) to prove the <hi>Canons Authority?</hi> and, doth not thy own <hi>Vindication</hi> take notice of it, as hath appeared, to little purpoſe? beſides, was it not the <hi>ſcope</hi> of the Doctor's <hi>Book,</hi> to prove their <hi>Au<g ref="char:EOLhyphen"/>thority</hi> to keep <hi>Eccleſiaſtical Courts?</hi> Is thy <hi>memory</hi> bad too?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Or to impoſe Oaths of <hi>Canonical obedience</hi> upon the <hi>Clergie.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>That</hi>'s proved with the <hi>Authority of the Canons:</hi> which have force upon the <hi>Clergie,</hi> if any at all: beſides, the <hi>Statute</hi> that con<g ref="char:EOLhyphen"/>firms our <hi>manner of ordering, &amp;c.</hi> impoſeth the ſame, upon all that are <hi>ordained.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Or to impoſe <hi>Oaths</hi> upon <hi>Church-wardens.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>I am aſhamed of thy <hi>trifling:</hi> that's done, both by <hi>Canon</hi> and <hi>Common,</hi> and <hi>Statute-Law,</hi> as my Lord Chief Juſtice <hi>Hales,</hi> declared upon the <hi>Bench:</hi> if the <hi>Wardens</hi> be not to ſwear <hi>againſt themſelves.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Nor, <hi>one word doth he write to vindicate their unjuſt and un<g ref="char:EOLhyphen"/>conſcionable Impoſitions and Extortions upon the Clergie, in Procurati<g ref="char:EOLhyphen"/>ons, Synodals, Inſtitutions, &amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Now thou art in thy <hi>Element;</hi> but thy memory is unfaithful: <hi>Not one word! Phil!</hi> about <hi>Procurations</hi> and <hi>Synodals: (the main thing wherein the Arch-deacon is concern'd in the charge.)</hi> Indeed, he ſaith no<g ref="char:EOLhyphen"/>thing in defence of <hi>unjuſt</hi> and unconſcionable <hi>impoſitions</hi> and <hi>extortions;</hi> but he ſaid enough to prove, to any reaſonable man, the lawfulneſs of taking the <hi>uſual Sum for Procurations and Synodals:</hi> which have been <hi>ever</hi> paid, ſo far as our Books can diſcover.</p>
+                  <p>But <hi>this</hi> charge is at the <hi>end</hi> of thy Book; and it ſeems thou hadſt forgot what thou ſaidſt at the <hi>beginning</hi> of it: there, thou ſaiſt, that he produceth not <hi>one Reaſon or Argument, except the Statute of</hi> Hen. 8. for <hi>Synodals</hi> and <hi>Proxies, to be granted from diſſolved Monaſte<g ref="char:EOLhyphen"/>ries,</hi> &amp;c.</p>
+                  <p>And, <hi>Phil,</hi> the Argument from Diſſolved <hi>Monaſteries</hi> to the ordinary Clergy is potent <hi>à fortiori:</hi> the <hi>Reaſon</hi> in the <hi>Statute</hi> is the <hi>ſame,</hi> for both: the <hi>Biſhop,</hi> &amp;c. <hi>pays Firſt-fruits</hi> and <hi>Tenths</hi> as well for his <hi>Pro<g ref="char:EOLhyphen"/>curations</hi> and <hi>Synodals</hi> received from the <hi>Clergy,</hi> as from the diſſolved <hi>Monaſteries:</hi> and the argument, <hi>ſtronger:</hi> becauſe the <hi>Clergie</hi> are <hi>vi<g ref="char:EOLhyphen"/>ſited,</hi> the Monaſteries are not: and you know <hi>Procurations</hi> are due, <hi>ra<g ref="char:EOLhyphen"/>tione viſitationis.</hi>
+                  </p>
+                  <p>But <hi>Phil.</hi> I ought to have an account, why thou ſaiſt the Doctor gives not one <hi>reaſon</hi> or argument for <hi>Procurations</hi> and <hi>Synodals</hi> beſides the <hi>Statute:</hi> thus thou leapeſt like a <hi>Squirril</hi> from one <hi>twigg</hi> to ano<g ref="char:EOLhyphen"/>ther, till thou falleſt to the <hi>ground:</hi> firſt <hi>[not one word]</hi> next, [not one Reaſon] except the Statute, both alike honeſt and true: doth not
+<pb n="30" facs="tcp:95404:17"/> he tell thee plainly, and in more words, that <hi>Procurations</hi> and <hi>Synodals</hi> are due by ancient <hi>Compoſition,</hi> upon a valuable <hi>Conſideration,</hi> and by undoubted long <hi>Poſſeſſion</hi> and <hi>Cuſtom,</hi> which is <hi>Law in England: Sit li<g ref="char:EOLhyphen"/>ber Judex. Leg. An. p.</hi> 64. And, in a word, if any <hi>other fees</hi> are taken or exacted, from the Clergy, or others, that are not warrantable by <hi>Law</hi> or <hi>Cuſtom,</hi> take thy remedy; the <hi>Law is open.</hi>
+                  </p>
+               </sp>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV.</head>
+               <head type="sub">CONCLUSION.</head>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>
+                     <hi>an</hi> Advocate <hi>for the Courts: his</hi> Reaſons <hi>on their behalf: from the</hi> value <hi>of money: abuſes in</hi> civil <hi>Court:</hi> Peace: <hi>his</hi> Declaration.</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>WELL, <hi>Phil.</hi> I find at laſt thou haſt painted thy ſelf too <hi>fierce</hi> for thy <hi>Nature:</hi> I find ſome <hi>bias</hi> upon thy <hi>reaſon,</hi> inclining thee well; and it's pity, but ye ſhould be <hi>friends:</hi> for,</p>
+                  <p n="1">1. Thou noteſt, the <hi>value of money is ſo different from what it was in</hi> Hen. 8. <hi>'s time, when a</hi> Harry <hi>groat would have bought as much Victuals as half a Crown now, that they cannot afford to keep Clarks, nor to write and to Regiſter Wills at this day for the</hi> Legal <hi>Fees.</hi>
+                  </p>
+                  <p n="2">2. Again, thou obſerveſt, and that in <hi>favour</hi> of <hi>Eccleſiaſtical</hi> Courts, that <hi>other</hi> Courts are more abuſive and <hi>exceſſive</hi> in fees: (I leave thee to make it good;) and 'twas very kindly remarked on our ſide, tho' ſeverely enough againſt the Common-Law Courts, according to thy manner of ſpeaking: thus,</p>
+                  <p>
+                     <hi>Indeed the Extortions of the Spiritual Courts are inconſiderable in Com<g ref="char:EOLhyphen"/>pariſon of thoſe amongſt the numerous Frie of Common-Lawyers, Attor<g ref="char:EOLhyphen"/>nies, Clarks, Notaries, Sollicitors, Splitters of Cauſes, &amp;c.</hi> whoſe num<g ref="char:EOLhyphen"/>bers <hi>are numberleſs: and ſo goes on with the Crie—</hi>p. 30, 31.</p>
+                  <p n="3">3. At length thou ſeem'ſt to have ſtudied better <hi>politicks,</hi> than thou haſt lately practis'd, for in the nature of a Concluſion, thou ſaiſt: <hi>Therefore men that trie, will certainly find (perhaps too late) that ſeldom</hi> 
+                     <note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 31.</note> 
+                     <hi>comes a better.</hi>
+                  </p>
+                  <p>This is very friendly indeed, <hi>Phil.</hi> a little more of this Nature might render thee worthy of an <hi>Advocates</hi> place in the <hi>Spiritual</hi>
+                     <pb n="31" facs="tcp:95404:17"/> Courts: and then thou might'ſt <hi>go ſnips</hi> too: hadſt thou writ, <hi>Fi<g ref="char:EOLhyphen"/>nis,</hi> here.</p>
+                  <p>But I find, thou canſt not end, without one fling more at the Doctor.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>Thou ſeeſt I can ſpeak to thy ſenſe: and indeed, I could ſay much more, to pleaſe <hi>thee,</hi> and the <hi>Doctor,</hi> and the <hi>Biſhops</hi> too, had I encouragement, as I think I <hi>deſerve:</hi> and this I had done before now, if the <hi>Lady</hi> at the beginning of the Doctor's <hi>Book</hi> had made me a <hi>Cur<g ref="char:EOLhyphen"/>teſie,</hi> or thank't me for my pains, upon <hi>Curſe ye, curſe ye MEROZ:</hi> but <hi>no ſuch matter, Tim.</hi> too <hi>much Ingratitude and envy raigns amongſt a ſort of unthinking Black-coats.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>No ſuch matter, Phil.</hi> the <hi>Black-coats</hi> did think: and thought, that thy <hi>Text</hi> was well <hi>interpreted</hi> and <hi>juſtly turn'd</hi> againſt the Enemies of the Church of <hi>England:</hi> but, they thought alſo, that thou playedſt too <hi>wantonly</hi> with a <hi>ſerious ſubject,</hi> in an <hi>angry Age:</hi> and indeed, thou actedſt the part of a <hi>Mountebank</hi> rather than a <hi>grave Preacher.</hi>
+                  </p>
+                  <p>Well, but what's this to the Doctor, how ſhall he be ſatisfied?</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>He was <hi>ſevere</hi> with me, and I was <hi>rude</hi> with him: and there's an <hi>end.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>
+                     <hi>Rude!</hi> Yea, <hi>barbarous</hi> and prodigiouſly <hi>ſcurrilous:</hi> and I ſhould wonder, if thou ſeeſt not a neceſſity of giving both thy <hi>ſelf</hi> and the <hi>Doctor,</hi> and the <hi>Church</hi> of <hi>England, better ſatisfaction.</hi>
+                  </p>
+                  <p>I have known many, that when they have taken up thy <hi>Vindication,</hi> and with a caſt of their eye, have perceived the <hi>mode</hi> of thy <hi>Scribble,</hi> have with diſdain and <hi>loathing</hi> caſt it from them: and to deal friendly with thee, I think thou ought'ſt to do ſomething to recover thy ſelf with the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Phil.</speaker>
+                  <p>I am ſorry to hear that: prethee, what would'ſt have me do?</p>
+               </sp>
+               <sp>
+                  <speaker>Tim.</speaker>
+                  <p>Thou haſt heard of an <hi>Engine,</hi> call'd, <hi>Pia fraus:</hi> but <hi>Phil.</hi> if thou haſt not the skill to joyn <hi>Piety</hi> and <hi>Craft</hi> together: either of them, well uſed, may do thee a kindneſs.</p>
+                  <p>My <hi>firſt</hi> advice, and my beſt, is this; that thou would'ſt be <hi>meek</hi> and humble; and give the world a Caſt of thy <hi>Piety</hi> in an <hi>honeſt retractation,</hi> and ingenuous <hi>peccavi.</hi>
+                  </p>
+                  <p>But <hi>ſecondly,</hi> if <hi>repentance</hi> be too hard a Task; or thy <hi>Talent</hi> lie not <hi>that</hi> way; the other part of my advice is; to uſe <hi>this craft.</hi>
+                  </p>
+                  <p>Send to thy <hi>Gazetteer,</hi> (he that Printed the <hi>Title</hi> of thy <hi>Vindication)</hi> and deſire him to publiſh this following <hi>Declaration.</hi>
+                  </p>
+                  <p>
+                     <hi>Whereas, there was lately Printed a very ſimple and malicious Pamphlet,</hi> called a <hi>Vindication of Naked Truth,</hi> the Second Part, againſt the tri<g ref="char:EOLhyphen"/>vial Objections of, <hi>one Fullwood,</hi> under the pretended Name of <hi>Phil.</hi>
+                     <pb n="32" facs="tcp:95404:18"/> 
+                     <hi>Hickeringill,</hi> that the Scandalous Pamphlet <hi>might go off the better:</hi> Theſe are to give Notice, that the <hi>ſaid Pamphlet,</hi> is ſo <hi>idle</hi> and <hi>trivial</hi> and <hi>rudely Barbarous,</hi> and ſo <hi>inſolently treats</hi> an ancient <hi>Doctor</hi> in Di<g ref="char:EOLhyphen"/>vinity, and the <hi>Laws</hi> of <hi>England,</hi> and our <hi>Church-Government,</hi> that the <hi>true Phil-Hickeringill,</hi> is aſhamed of it; and doth hereby diſown and <hi>diſavow</hi> it; as the <hi>off-ſpring of the windy vapour of ſome (hot) Spa<g ref="char:EOLhyphen"/>niſh Genet: or, to ſpeak more truly, if not ſo properly, ſome wild,</hi> Eng<g ref="char:EOLhyphen"/>liſh <hi>Aſs.</hi>
+                  </p>
+               </sp>
+               <closer>
+                  <dateline>Given under my Hand,</dateline>
+                  <signed>
+                     <hi>Philautos:</hi> or the <hi>true Phil-Hickeringill.</hi>
+                  </signed>
+               </closer>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95404:18"/>
+            <head>
+               <hi>A</hi> CATALOGUE <hi>of ſome Books lately Printed for</hi> Richard Royſton.</head>
+            <p>THE <hi>Eſtabliſh'd Church:</hi> Or, a Subverſion of all the <hi>Roma<g ref="char:EOLhyphen"/>niſts</hi> Pleas for the <hi>Popes</hi> Supremacy in <hi>England:</hi> Toge<g ref="char:EOLhyphen"/>ther with a <hi>Vindication</hi> of the preſent Government of the Church of <hi>England,</hi> as allow'd by the <hi>Laws</hi> of the <hi>Land,</hi> againſt all <hi>Fanatical</hi> exceptions; particularly of Mr. <hi>Hickeringill,</hi> in his Scandalous Pamphlet, ſtiled <hi>NAKED TR<g ref="char:V">Ʋ</g>TH,</hi> the 2d. Part. By <hi>Fran. Fullwood,</hi> D. D. Arch-deacon of <hi>Totnes</hi> in <hi>Devon.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Or, a Diſcourſe of the Morality of the <hi>Sabbath,</hi> being an Expoſition of <hi>Exod.</hi> xx. <hi>v.</hi> 8, 9, 10, 11. with <hi>Prayers</hi> relating thereunto, humbly offered to this preſent Age. By <hi>John Gregory</hi> Arch-deacon of <hi>Gloceſter.</hi>
+            </p>
+            <p>
+               <hi>The New Diſtemper:</hi> Or the Diſſenters Uſual Pleas for Com<g ref="char:EOLhyphen"/>prehenſion, Toleration, and the Renouncing the Covenant, Conſider'd and Diſcuſs'd; with ſome Reflections upon Mr. <hi>Baxter</hi>'s and Mr. <hi>Alſop</hi>'s late Pamphlets, publiſhed in Anſwer to the Reverend Dean of S. <hi>Paul</hi>'s Sermon concerning <hi>Sepa<g ref="char:EOLhyphen"/>ration.</hi>
+            </p>
+            <p>The Lively Picture of <hi>Lewis du Moulin,</hi> drawn by an incom<g ref="char:EOLhyphen"/>parable Hand. Together with his Laſt Words: Being his <hi>Re<g ref="char:EOLhyphen"/>tractation</hi> of all the Perſonal Reflections he had made on the Di<g ref="char:EOLhyphen"/>vines of the Church of <hi>England,</hi> (in ſeveral Books of his) Signed by Himſelf on the Fifth and the Seventeenth of <hi>October,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
